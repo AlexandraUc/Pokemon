@@ -1,0 +1,5574 @@
+
+Sinnoh
+Roark
+3
+Geodude
+12 1 1 1 1 0 0
+2 rock ground
+Graveler 25 Golem 40
+6 fighting ground steel water grass ice
+6 electric normal flying poison rock fire
+2
+Tackle
+normal 40
+Rock Throw
+rock 50
+Geodude
+12 1 1 1 1 0 0
+2 rock ground
+Graveler 25 Golem 40
+6 fighting ground steel water grass ice
+6 electric normal flying poison rock fire
+2
+Tackle
+normal 40
+Rock Throw
+rock 50
+Cranidos
+14 1 1 1 1 0 0
+1 rock
+Rampardos 30 - 0
+5 fighting water ground steel grass
+4 normal flying poison fire
+3
+Headbutt
+normal 70
+Ancient Power
+rock 60
+Bite
+dark 60
+Gardenia
+3
+Cherubi
+20 1 1 1 1 0 0
+1 grass
+Cherrim 25 - 0
+5 flying fire ice poison bug
+4 ground water electric grass
+3
+Tackle
+normal 40
+Magical Leaf
+grass 60
+Draining Kiss
+fairy 40
+Turtwig
+20 1 1 1 1 0 0
+1 grass
+Grotle 18 Torterra 32
+5 flying fire ice poison bug
+4 ground water electric grass
+3
+Tackle
+normal 40
+Razor Leaf
+grass 55
+Bite
+dark 60
+Roserade
+23 1 1 1 1 0 0
+2 grass poison
+- 0 - 0
+4 flying fire psychic ice
+5 fighting water grass electric fairy
+2
+Magical Leaf
+grass 60
+Venoshock
+poison 60
+Maylene
+3
+Meditite
+30 1 1 1 1 0 0
+2 fighting psychic
+Medicham 37 - 0
+3 flying ghost fairy
+2 fighting rock
+3
+Zen Headbutt
+psychic 80
+Force Palm
+fighting 60
+Aerial Ace
+flying 60
+Machoke
+31 1 1 1 1 0 0
+1 fighting
+Machamp 40 - 0
+3 flying psychic fairy
+3 bug dark rock
+3
+Vital Throw
+fighting 70
+Dual Chop
+dragon 80
+Bullet Punch
+steel 40
+Lucario
+33 1 1 1 1 0 0
+2 fighting steel
+- 0 - 0
+3 fighting fire ground
+9 poison normal rock bug steel grass ice dragon dark
+3
+Aura Sphere
+fighting 80
+Meteor Mash
+steel 90
+Dig
+ground 80
+Fantina
+3
+Duskull
+38 1 1 1 1 0 0
+1 ghost
+Dusclops 37 Dusknoir 50
+2 ghost dark
+3 normal poison bug
+3
+Shadow Ball
+ghost 80
+Leech Life
+bug 80
+Icy Wind
+ice 55
+Haunter
+38 1 1 1 1 0 0
+2 ghost poison
+Gengar 42 - 0
+3 ghost psychic dark
+7 normal fighting ground poison bug grass fairy
+3
+Sucker Punch
+dark 70
+Shadow Ball
+ghost 80
+Venoshock
+poison 65
+Mismagius
+40 1 1 1 1 0 0
+1 ghost
+- 0 - 0
+2 ghost dark
+5 normal fighting ground poison bug
+3
+Phantom Force
+ghost 90
+Mystical Fire
+fire 75
+Power Gem
+rock 80
+Crasher Wake
+3
+Gyarados
+45 1 1 1 1 0 0
+2 water flying
+- 0 - 0
+2 rock electric
+6 ground fighting bug steel fire water
+3
+Waterfall
+water 80
+Crunch
+dark 80
+Hurricane
+flying 110
+Quagsire
+45 1 1 1 1 0 0
+2 water ground
+- 0 - 0
+1 grass
+5 electric poison rock steel fire
+3
+Aqua Tail
+water 90
+Stomping Tantrum
+ground 75
+Blizzard
+ice 110
+Floatzel
+48 1 1 1 1 0 0
+1 water
+- 0 - 0
+2 grass electric
+4 fire steel ice water
+3
+Hydro Pump
+water 110
+Ice Fang
+ice 65
+Brick Break
+fighting 75
+Byron
+3
+Bronzor
+50 1 1 1 1 0 0
+2 steel psychic
+Bronzong 33 - 0
+4 ground ghost fire dark
+10 poison normal flying rock steel grass psychic ice dragon fairy
+3
+Gyro Ball
+steel 90
+Extrasensory
+psychic 80
+Ice Spinner
+ice 80
+Steelix
+50 1 1 1 1 0 0
+2 steel ground
+- 0 - 0
+4 fighting ground fire water
+10 poison electric normal flying rock bug steel psychic dragon fairy
+3
+Iron Tail
+steel 100
+Stone Edge
+rock 100
+Earthquake
+ground 100
+Bastiodon
+53 1 1 1 1 0 0
+2 rock steel
+- 0 - 0
+3 fighting ground water
+9 poison normal flying rock bug psychic ice dragon fairy
+3
+Iron Head
+steel 80
+Stone Edge
+rock 110
+Flamethrower
+fire 90
+Candice
+4
+Snover
+58 1 1 1 1 0 0
+2 grass ice
+Abomasnow 40 - 0
+7 fighting flying poison rock bug steel fire
+4 ground water grass electric
+3
+Wood Hammer
+grass 120
+Ice Beam
+ice 90
+Water Pulse
+water 60
+Sneasel
+58 1 1 1 1 0 0
+2 ice dark
+Weavile 35 - 0
+3 flying ground psychic
+6 fighting poison rock bug grass dark
+3
+Ice Punch
+ice 75
+Dark Pulse
+dark 80
+Poison Jab
+poison 80
+Mamoswine
+59 1 1 1 1 0 0
+2 ice ground
+- 0 - 0
+5 fighting steel fire water grass
+2 electric poison
+3
+Blizzard
+ice 110
+Earthquake
+ground 100
+Iron Head
+steel 80
+Abomasnow
+60 1 1 1 1 0 0
+2 grass ice
+- 0 - 0
+7 fighting flying poison rock bug steel fire
+4 ground water grass electric
+3
+Blizzard
+ice 110
+Wood Hammer
+grass 120
+Focus Blast
+fighting 120
+Volkner
+4
+Raichu
+66 1 1 1 1 0 0
+1 electric
+- 0 - 0
+1 ground
+3 flying steel electric
+3
+Thunderbolt
+electric 90
+Iron Tail
+steel 90
+Grass Knot
+grass 90
+Electivire
+66 1 1 1 1 0 0
+1 electric
+- 0 - 0
+1 ground
+3 flying steel electric
+3
+Thunderbolt
+electric 90
+Focus Blast
+fighting 120
+Psychic
+psychic 90
+Jolteon
+67 1 1 1 1 0 0
+1 electric
+- 0 - 0
+1 ground
+3 flying steel electric
+3
+Thunderbolt
+electric 90
+Dig
+ground 80
+Shadow Ball
+ghost 80
+Luxray
+69 1 1 1 1 0 0
+1 electric
+- 0 - 0
+1 ground
+3 flying steel electric
+3
+Wild Charge
+electric 90
+Crunch
+dark 80
+Play Rough
+fairy 90
+Aaron
+5
+Dustox
+75 1 1 1 1 0 0
+2 bug poison
+- 0 - 0
+4 flying rock fire psychic
+5 fighting poison bug grass fairy
+4
+Bug Buzz
+bug 90
+Sludge Bomb
+poison 90
+Shadow Ball
+ghost 90
+Psychic
+psychic 90
+Heracross
+75 1 1 1 1 0 0
+2 bug fighting
+- 0 - 0
+4 flying fire psychic fairy
+5 fighting ground bug grass dark
+4
+Close Combat
+fighting 120
+Megahorn
+bug 120
+Throat Chop
+dark 80
+Shadow Claw
+ghost 70
+Vespiquen
+75 1 1 1 1 0 0
+2 bug flying
+- 0 - 0
+5 flying rock fire electric ice
+4 ground fighting bug grass
+4
+Attack Order
+bug 90
+Power Gem
+rock 80
+Acrobatics
+flying 110
+Sludge Bomb
+poison 90
+Beautifly
+75 1 1 1 1 0 0
+2 bug flying
+- 0 - 0
+5 flying rock fire electric ice
+4 ground fighting bug grass
+4
+Bug Buzz
+bug 90
+Giga Drain
+grass 90
+Shadow Ball
+ghost 80
+Psychic
+psychic 90
+Drapion
+77 1 1 1 1 0 0
+2 poison dark
+- 0 - 0
+1 ground
+5 psychic poison dark grass ghost
+4
+Poison Jab
+poison 80
+Crunch
+dark 80
+X-Scissor
+bug 80
+Iron Tail
+steel 100
+Bertha
+5
+Quagsire
+75 1 1 1 1 0 0
+2 ground water
+- 0 - 0
+1 grass
+5 electric poison rock steel fire
+4
+Hydro Pump
+water 110
+Earthquake
+ground 100
+Blizzard
+ice 110
+Focus Blast
+fighting 120
+Hippowdon
+75 1 1 1 1 0 0
+1 ground
+- 0 - 0
+3 water grass ice
+3 electric poison rock
+4
+Earthquake
+ground 100
+Double-Edge
+normal 120
+Crunch
+dark 80
+Fire Fang
+fire 65
+Sudowoodo
+75 1 1 1 1 0 0
+1 rock
+- 0 - 0
+5 fighting ground steel water grass
+4 normal flying poison fire
+4
+Stone Edge
+rock 100
+Hammer Arm
+fighting 100
+Sucker Punch
+dark 80
+Grass Knot
+grass 90
+Whiscash
+75 1 1 1 1 0 0
+2 water ground
+- 0 - 0
+1 grass
+5 electric poison rock steel fire
+4
+Hydro Pump
+water 110
+Earthquake
+ground 100
+Blizzard
+ice 110
+Zen Headbutt
+psychic 80
+Golem
+77 1 1 1 1 0 0
+2 rock ground
+- 0 - 0
+6 fighting ground steel water grass ice
+6 electric normal flying poison rock fire
+4
+Stone Edge
+rock 100
+Earthquake
+ground 100
+Heavy Slam
+steel 90
+Focus Blast
+fighting 120
+Flint
+5
+Rapidash
+75 1 1 1 1 0 0
+1 fire
+- 0 - 0
+3 ground rock water
+6 bug grass steel fire ice fairy
+4
+Fire Blast
+fire 110
+Smart Strike
+steel 70
+Poison Jab
+poison 80
+Megahorn
+bug 120
+Infernape
+75 1 1 1 1 0 0
+2 fire fighting
+- 0 - 0
+4 flying ground water psychic
+6 bug steel fire grass ice dark
+4
+Flare Blitz
+fire 120
+Close Combat
+fighting 120
+U-Turn
+bug 70
+Acrobatics
+flying 110
+Magmar
+75 1 1 1 1 0 0
+1 fire
+Magmortar 50 - 0
+3 ground rock water
+6 bug grass steel fire ice fairy
+4
+Fire Blast
+fire 110
+Thunder Punch
+electric 75
+Psychic
+psychic 90
+Iron Tail
+steel 100
+Magcargo
+75 1 1 1 1 0 0
+2 fire rock
+- 0 - 0
+4 fighting ground rock water
+7 normal flying poison bug fire ice fairy
+4
+Flamethrower
+fire 90
+Rock Slide
+rock 75
+Earth Power
+ground 90
+Solar Beam
+grass 120
+Volcarona
+77 1 1 1 1 0 0
+2 fire bug
+- 0 - 0
+3 flying rock water
+6 fighting bug steel grass ice fairy
+4
+Bug Buzz
+bug 90
+Overheat
+fire 130
+Hurricane
+flying 110
+Psychic
+psychic 90
+Lucian
+5
+Sigilyph
+75 1 1 1 1 0 0
+2 psychic flying
+- 0 - 0
+5 rock ghost electric ice dark
+4 ground fighting grass psychic
+4
+Sky Attack
+flying 140
+Psychic
+psychic 90
+Steel Wing
+steel 70
+Shadow Ball
+ghost 80
+Girafarig
+75 1 1 1 1 0 0
+2 normal psychic
+- 0 - 0
+2 bug dark
+2 ghost psychic
+4
+Psychic
+psychic 90
+Crunch
+dark 80
+Body Slam
+normal 85
+Bulldoze
+ground 60
+Medicham
+75 1 1 1 1 0 0
+2 fighting psychic
+- 0 - 0
+3 flying ghost fairy
+2 fighting rock
+4
+Axe Kick
+fighting 120
+Zen Headbutt
+psychic 80
+Poison Jab
+poison 80
+Rock Slide
+rock 75
+Alakazam
+75 1 1 1 1 0 0
+1 psychic
+- 0 - 0
+3 bug dark ghost
+2 fighting psychic
+4
+Future Sight
+psychic 120
+Drain Punch
+fighting 75
+Shadow Ball
+ghost 80
+Energy Ball
+grass 90
+Bronzong
+77 1 1 1 1 0 0
+2 steel psychic
+- 0 - 0
+4 ground ghost fire dark
+10 poison normal flying rock steel grass psychic ice dragon fairy
+4
+Future Sight
+psychic 120
+Flash Cannon
+steel 80
+Ice Spinner
+ice 80
+Earthquake
+ground 100
+Cynthia
+6
+Gatrodon
+80 1 1 1 1 0 0
+2 ground water
+- 0 - 0
+1 grass
+5 electric poison rock steel fire
+4
+Liquidation
+water 85
+Sludge Bomb
+poison 90
+Earthquake
+ground 100
+Blizzard
+ice 110
+Spiritomb
+80 1 1 1 1 0 0
+2 ghost dark
+- 0 - 0
+1 fairy
+4 normal fighting psychic poison
+4
+Phantom Force
+ghost 90
+Foul Play
+dark 90
+Psychic
+psychic 90
+Rock Tomb
+rock 60
+Roserade
+80 1 1 1 1 0 0
+2 grass poison
+- 0 - 0
+4 flying fire psychic ice
+5 fighting water grass electric fairy
+4
+Petal Dance
+grass 120
+Poison Jab
+poison 80
+Shadow Ball
+ghost 80
+Dazzling Gleam
+fairy 80
+Lucario
+80 1 1 1 1 0 0
+2 fighting steel
+- 0 - 0
+3 fighting ground fire
+9 poison normal rock bug steel grass ice dragon dark
+4
+Close Combat
+fighting 120
+Meteor Mash
+steel 90
+Dragon Pulse
+dragon 80
+Stone Edge
+rock 100
+Milotic
+80 1 1 1 1 0 0
+1 water
+- 0 - 0
+2 grass electric
+4 steel fire water ice
+4
+Hydro Pump
+water 110
+Blizzard
+ice 110
+Iron Tail
+steel 100
+Dragon Pulse
+dragon 85
+Garchomp
+83 1 1 1 1 0 0
+2 dragon ground
+- 0 - 0
+3 ice dragon fairy
+4 electric poison rock fire
+4
+Crunch
+dark 80
+Draco Meteor
+dragon 130
+Earthquake
+ground 100
+Fire Blast
+fire 110
+140
+William Pierre Georgia Vincent Duncan Kevin Laura Tania James John
+Kayla Megan Nicole Rachel Ryan Danielle Janet Mia Shane Annie
+Joe Rosie Taylor Christine Harry Larissa Karla Linda Grace Ian
+Ava Matt Beth Bob Jen Al Kay Pat Jo Richard 
+Scott Wyatt Danielle Valerie Rita Kate Melody Isaac Wendy Kyle
+Henry Oscar Hayley Maggie Nathan Cherry Penny Sammie Kristy Martha
+Leah Spencer Trevor Dahlia Ben Ralph Edward Rosa Walter Jake 
+Sharon Nadya Brenda Joey Cal Lily Will Jasmine Carrie Randy
+Flo Erika Reina Aaron Mitch Heather Brittany Nikki Jennifer Rick
+Nicholas Amy Amanda Joshua Sara Courtney Maizie Shelly Tabitha Bridgette
+Lucy Avery Joel Cameron Larry Keith Chris Helena Johanna Julia
+Diane Rebecca Roxy Elaine Janice Mirabel Robert Todd Mason Jules
+Charles Emmet Hugh Dana Evelyn Emma Cassius Amelia Nora Travis
+Alyssa Mike Emilia Tim Luca Sierra Willow Cliff Ethan Frank
+Fennekin
+5 1 1 1 1 0 0
+1 fire
+Braixen 16 Delphox 36
+3 ground rock water
+6 bug steel fire grass ice fairy
+10
+Tackle
+normal 40
+Ember
+fire 40
+Thief
+dark 60
+Mud Shot
+ground 55
+Psybeam
+psychic 65
+Flamethrower
+fire 90
+Psychic
+psychic 90
+Foul Play
+dark 90
+Grass Knot
+grass 90
+Fire Blast
+fire 110
+Snivy
+5 1 1 1 1 0 0
+1 grass
+Servine 17 Serperior 36
+5 flying poison bug fire ice
+4 ground water grass electric
+10
+Tackle
+normal 40
+Vine Whip
+grass 45
+Leaf Tornado
+grass 65
+Leaf Blade
+grass 90
+Giga Drain
+grass 75
+Leaf Storm
+grass 130
+Aerial Ace
+flying 60
+Iron Tail
+steel 100
+Aqua Tail
+water 90
+Knock Off
+dark 65
+Mudkip
+5 1 1 1 1 0 0
+1 water
+Marshtomp 16 Swampert 36
+2 grass electric
+4 steel fire water ice
+10
+Tackle
+normal 40
+Water Gun
+water 40
+Water Pulse
+water 60
+Surf
+water 90
+Hydro Pump
+water 110
+Rock Slide
+rock 75
+Avalanche
+ice 60
+Ice Beam
+ice 90
+Dig
+ground 80
+Bite
+dark 60
+Braixen
+16 1 1 1 1 0 0
+1 fire
+Delphox 36 - 0
+3 ground rock water
+6 bug steel fire grass ice fairy
+12
+Tackle
+normal 40
+Ember
+fire 40
+Thief
+dark 60
+Low Kick
+fighting 70
+Thunder Punch
+electric 75
+Mud Shot
+ground 55
+Psybeam
+psychic 65
+Flamethrower
+fire 90
+Psychic
+psychic 90
+Foul Play
+dark 90
+Grass Knot
+grass 90
+Fire Blast
+fire 110
+Delphox
+36 1 1 1 1 0 0
+2 fire psychic
+- 0 - 0
+5 ground rock water ghost dark
+7 fighting steel fire grass ice fairy psychic
+15
+Tackle
+normal 40
+Ember
+fire 40
+Thief
+dark 60
+Low Kick
+fighting 70
+Thunder Punch
+electric 75
+Mud Shot
+ground 55
+Psybeam
+psychic 65
+Shadow Ball
+ghost 80
+Dazzling Gleam
+fairy 80
+Focus Blast
+fighting 120
+Flamethrower
+fire 90
+Psychic
+psychic 90
+Foul Play
+dark 90
+Grass Knot
+grass 90
+Fire Blast
+fire 110
+Servine
+17 1 1 1 1 0 0
+1 grass
+Serperior 36 - 0
+5 flying poison bug fire ice
+4 ground water grass electric
+11
+Tackle
+normal 40
+Slam
+normal 80
+Vine Whip
+grass 45
+Leaf Tornado
+grass 65
+Leaf Blade
+grass 90
+Giga Drain
+grass 75
+Leaf Storm
+grass 130
+Aerial Ace
+flying 60
+Iron Tail
+steel 100
+Aqua Tail
+water 90
+Knock Off
+dark 65
+Serperior
+36 1 1 1 1 0 0
+1 grass
+- 0 - 0
+5 flying poison bug fire ice
+4 ground water grass electric
+14
+Tackle
+normal 40
+Slam
+normal 80
+Vine Whip
+grass 45
+Leaf Tornado
+grass 65
+Wring Out
+normal 100
+Frenzy Plant
+grass 150
+Dragon Pulse
+dragon 85
+Leaf Blade
+grass 90
+Giga Drain
+grass 75
+Leaf Storm
+grass 130
+Aerial Ace
+flying 60
+Iron Tail
+steel 100
+Aqua Tail
+water 90
+Knock Off
+dark 65
+Marshtomp
+16 1 1 1 1 0 0
+2 water ground
+Swampert 36 - 0
+1 grass
+5 steel fire rock poison electric
+13
+Tackle
+normal 40
+Water Gun
+water 40
+Water Pulse
+water 60
+Brick Break
+fighting 75
+Iron Tail
+steel 100
+Sludge Wave
+poison 95
+Surf
+water 90
+Hydro Pump
+water 110
+Rock Slide
+rock 75
+Avalanche
+ice 60
+Ice Beam
+ice 90
+Dig
+ground 80
+Bite
+dark 60
+Swampert
+36 1 1 1 1 0 0
+2 water ground
+- 0 - 0
+1 grass
+5 electric steel fire water ice
+14
+Tackle
+normal 40
+Water Gun
+water 40
+Water Pulse
+water 60
+Bite
+dark 60
+Hammer Arm
+fighting 100
+Earthquake
+ground 100
+Iron Tail
+steel 100
+Surf
+water 90
+Hydro Pump
+water 110
+Rock Slide
+rock 75
+Sludge Wave
+poison 95
+Ice Beam
+ice 90
+Dig
+ground 80
+Darkest Lariat
+dark 85
+Gligar
+6 1 1 1 1 1 1
+2 flying ground
+Gliscor 35 - 0
+2 water ice 
+3 fighting poison bug 
+13
+Poison Sting
+poison 15
+Fury Cutter
+bug 40
+Quick Attack
+normal 40
+Aerial Ace
+flying 60
+Brick Break
+fighting 75
+Dark Pulse
+dark 80
+Dig
+ground 80
+Knock Off
+dark 65
+Rock Tomb
+rock 60
+Sludge Bomb
+poison 90
+Steel Wing
+steel 70
+Stone Edge
+rock 100
+X-Scissor
+bug 80
+Gliscor
+35 1 1 1 1 1 1
+2 flying ground
+- 0 - 0
+2 water ice 
+3 fighting poison bug 
+16
+Poison Sting
+poison 15
+Fury Cutter
+bug 40
+Quick Attack
+normal 40
+Aerial Ace
+flying 60
+Knock Off
+dark 65
+Rock Tomb
+rock 60
+Acrobatics
+flying 110
+Brick Break
+fighting 75
+Dark Pulse
+dark 80
+Earthquake
+ground 100
+Iron Tail
+steel 100
+Fire Fang
+fire 65
+Sludge Bomb
+poison 90
+Steel Wing
+steel 70
+Stone Edge
+rock 100
+X-Scissor
+bug 80
+Buizel
+1 1 1 1 1 1 1
+1 water
+Floatzel 26 - 0
+2 grass electric 
+4 steel fire water ice 
+13
+Aqua Tail
+water 90
+Bite
+dark 60
+Blizzard
+ice 110
+Brick Break
+fighting 75
+Crunch
+dark 80
+Dig
+ground 80
+Fury Cutter
+bug 40
+Ice Beam
+ice 90
+Ice Fang
+ice 65
+Rock Tomb
+rock 60
+Swift
+normal 60
+Water Gun
+water 40
+Wave Crash
+water 120
+Floatzel
+26 1 1 1 1 1 1
+1 water
+- 0 - 0
+2 grass electric 
+4 steel fire water ice 
+14
+Aqua Tail
+water 90
+Bite
+dark 60
+Blizzard
+ice 110
+Brick Break
+fighting 75
+Crunch
+dark 80
+Dig
+ground 80
+Fury Cutter
+bug 40
+Ice Beam
+ice 90
+Ice Fang
+ice 65
+Rock Tomb
+rock 60
+Swift
+normal 60
+Water Gun
+water 40
+Focus Blast
+fighting 120
+Wave Crash
+water 120
+Carnivine
+1 1 1 1 1 1 1
+1 grass
+- 0 - 0
+5 flying poison bug fire ice 
+4 water grass electric ground 
+10
+Bite
+dark 60
+Crunch
+dark 80
+Cut
+normal 50
+Giga Drain
+grass 75
+Leaf Tornado
+grass 65
+Leech Life
+bug 75
+Power Whip
+grass 120
+Slam
+normal 80
+Sludge Bomb
+poison 90
+Vine Whip
+grass 45
+Murkrow
+1 1 1 1 1 1 1
+2 flying dark
+Honchkrow 30 - 0
+4 rock electric ice fairy 
+5 ground psychic ghost grass dark 
+10
+Assurance
+dark 60
+Dark Pulse
+dark 80
+Fly
+flying 90
+Foul Play
+dark 95
+Gust
+flying 40
+Icy Wind
+ice 55
+Psychic
+psychic 90
+Shadow Ball
+ghost 80
+U-Turn
+bug 70
+Wing Attack
+flying 60
+Honchkrow
+30 1 1 1 1 1 1
+2 flying dark
+- 0 - 0
+4 rock electric ice fairy 
+5 ground psychic ghost grass dark 
+12
+Assurance
+dark 60
+Gust
+flying 40
+Heat Wave
+fire 95
+Dark Pulse
+dark 80
+Fly
+flying 90
+Foul Play
+dark 95
+Acrobatics
+flying 110
+Icy Wind
+ice 55
+Psychic
+psychic 90
+Shadow Ball
+ghost 80
+U-Turn
+bug 70
+Brave Bird
+flying 120
+Electrike
+1 1 1 1 1 1 1
+1 electric
+Manectric 26 - 0
+1 ground 
+3 flying steel electric 
+9
+Bite
+dark 60
+Body Slam
+normal 85
+Discharge
+electric 80
+Fire Fang
+fire 65
+Ice Fang
+ice 65
+Psychic Fangs
+psychic 85
+Quick Attack
+normal 40
+Shock Wave
+electric 60
+Wild Charge
+electric 90
+Manectric
+26 1 1 1 1 1 1
+1 electric
+- 0 - 0
+1 ground 
+3 flying steel electric 
+13
+Quick Attack
+normal 40
+Shock Wave
+electric 60
+Crunch
+dark 80
+Flamethrower
+fire 90
+Bite
+dark 60
+Body Slam
+normal 85
+Discharge
+electric 80
+Fire Fang
+fire 65
+Ice Fang
+ice 65
+Psychic Fangs
+psychic 85
+Iron Tail
+steel 100
+Thunder
+electric 110
+Wild Charge
+electric 90
+Misdreavus
+1 1 1 1 1 1 1
+1 ghost
+Mismagius 28 - 0
+2 ghost dark 
+5 normal fighting ground poison bug 
+9
+Confusion
+psychic 50
+Dark Pulse
+dark 80
+Hex
+ghost 65
+Icy Wind
+ice 55
+Magical Leaf
+grass 60
+Payback
+dark 50
+Power Gem
+rock 80
+Psybeam
+psychic 65
+Shadow Ball
+ghost 80
+Mismagius
+28 1 1 1 1 1 1
+1 ghost
+- 0 - 0
+2 ghost dark 
+5 normal fighting ground poison bug 
+13
+Payback
+dark 50
+Hex
+ghost 65
+Confusion
+psychic 50
+Thunder
+electric 110
+Psychic
+psychic 90
+Dark Pulse
+dark 80
+Dazzling Gleam
+fairy 80
+Icy Wind
+ice 55
+Magical Leaf
+grass 60
+Grass Knot
+grass 90
+Power Gem
+rock 80
+Phantom Force
+ghost 90
+Shadow Ball
+ghost 80
+Sneasel
+1 1 1 1 1 1 1
+2 dark ice
+Weavile 32 - 0
+6 fighting rock bug steel fire fairy 
+4 psychic ghost ice dark 
+11
+Aerial Ace
+flying 60
+Dig
+ground 80
+Ice Beam
+ice 90
+Ice Punch
+ice 75
+Icy Wind
+ice 55
+Low Kick
+fighting 70
+Metal Claw
+steel 50
+Poison Jab
+poison 80
+Quick Attack
+normal 40
+Shadow Claw
+ghost 70
+Water Pulse
+water 60
+Weavile
+32 1 1 1 1 1 1
+2 dark ice
+- 0 - 0
+6 fighting rock bug steel fire fairy 
+4 psychic ghost ice dark 
+13
+Quick Attack
+normal 40
+Icy Wind
+ice 55
+Aerial Ace
+flying 60
+Dig
+ground 80
+Ice Beam
+ice 90
+X-Scissor
+bug 80
+Blizzard
+ice 110
+Low Kick
+fighting 70
+Metal Claw
+steel 50
+Poison Jab
+poison 80
+Focus Blast
+fighting 120
+Shadow Claw
+ghost 70
+Water Pulse
+water 60
+Magby
+1 1 1 1 1 1 1
+1 fire
+Magmar 30 Magmortar 46
+3 ground rock water 
+6 bug steel fire grass ice fairy 
+8
+Ember
+fire 40
+Flame Wheel
+fire 60
+Flamethrower
+fire 90
+Low Kick
+fighting 70
+Psychic
+psychic 90
+Smog
+poison 30
+Thief
+dark 60
+Thunder Punch
+electric 75
+Magmar
+30 1 1 1 1 1 1
+1 fire
+Magmortar 46 - 0
+3 ground rock water 
+6 bug steel fire grass ice fairy 
+13
+Ember
+fire 40
+Smog
+poison 30
+Flame Wheel
+fire 60
+Fire Blast
+fire 110
+Iron Tail
+steel 100
+Focus Blast
+fighting 120
+Belch
+poison 120
+Flamethrower
+fire 90
+Low Kick
+fighting 70
+Psychic
+psychic 90
+Scorching Sands
+ground 70
+Thief
+dark 60
+Thunder Punch
+electric 75
+Magmortar
+46 1 1 1 1 1 1
+1 fire
+- 0 - 0
+3 ground rock water 
+6 bug steel fire grass ice fairy 
+13
+Ember
+fire 40
+Smog
+poison 30
+Flame Wheel
+fire 60
+Fire Blast
+fire 110
+Iron Tail
+steel 100
+Focus Blast
+fighting 120
+Belch
+poison 120
+Overheat
+fire 130
+Low Kick
+fighting 70
+Psychic
+psychic 90
+Scorching Sands
+ground 70
+Thief
+dark 60
+Thunder Punch
+electric 75
+Shroomish
+1 1 1 1 1 1 1
+1 grass
+Breloom 23 - 0
+5 flying poison bug fire ice 
+4 water grass electric ground 
+7
+Mega Drain
+grass 60
+Pounce
+bug 50
+Venoshock
+poison 65
+Giga Drain
+grass 75
+Drain Punch
+fighting 75
+Energy Ball
+grass 90
+Sludge Bomb
+poison 90
+Breloom
+23 1 1 1 1 1 1
+2 grass fighting
+- 0 - 0
+6 flying poison psychic fire ice fairy 
+6 water grass electric ground rock dark
+14
+Zen Headbutt
+psychic 80
+Dig
+ground 80
+Gunk Shot
+poison 120
+Thunder Punch
+electric 75
+Dynamic Punch
+fighting 100
+Stone Edge
+rock 100
+Pounce
+bug 50
+Mega Drain
+grass 60
+Venoshock
+poison 65
+Leaf Storm
+grass 130
+Giga Drain
+grass 75
+Drain Punch
+fighting 75
+Energy Ball
+grass 90
+Sludge Bomb
+poison 90
+Snorunt
+1 1 1 1 1 1 1
+1 ice
+Glalie 42 - 0
+4 fighting rock steel fire 
+1 ice 
+6
+Bite
+dark 60
+Crunch
+dark 80
+Frost Breath
+ice 60
+Ice Beam
+ice 90
+Powder Snow
+ice 40
+Water Pulse
+water 60
+Snorunt
+1 1 1 1 1 1 1
+1 ice
+Froslass 34 - 0
+4 fighting rock steel fire 
+1 ice 
+6
+Bite
+dark 60
+Crunch
+dark 80
+Frost Breath
+ice 60
+Ice Beam
+ice 90
+Powder Snow
+ice 40
+Water Pulse
+water 60
+Glalie
+42 1 1 1 1 1 1
+1 ice
+- 0 - 0
+4 fighting rock steel fire 
+1 ice 
+12
+Powder Snow
+ice 40
+Bite
+dark 60
+Blizzard
+ice 110
+Foul Play
+dark 95
+Shadow Ball
+ghost 80
+Iron Head
+steel 80
+Bite
+dark 60
+Crunch
+dark 80
+Frost Breath
+ice 60
+Ice Beam
+ice 90
+Earthquake
+ground 100
+Water Pulse
+water 60
+Froslass
+34 1 1 1 1 1 1
+2 ice ghost
+- 0 - 0
+5 ghost dark rock steel fire 
+5 ice normal fighting poison bug 
+13
+Powder Snow
+ice 40
+Shadow Ball
+ghost 90
+Blizzard
+ice 110
+Thunderbolt
+electric 90
+Wake-Up Slap
+fighting 75
+Psychic
+psychic 90
+Thunder
+electric 110
+Bite
+dark 60
+Crunch
+dark 80
+Frost Breath
+ice 60
+Ice Beam
+ice 90
+Powder Snow
+ice 40
+Water Pulse
+water 60
+Starly
+1 1 1 1 1 1 1
+2 normal flying
+Staravia 13 Staraptor 34
+3 rock electric ice 
+4 ground ghost bug grass 
+5
+Astonish
+ghost 30
+Quick Attack
+normal 40
+Take Down
+normal 90
+Thief
+dark 60
+Wing Attack
+flying 60
+Staravia
+13 1 1 1 1 1 1
+2 normal flying
+Staraptor 34 - 0
+3 rock electric ice 
+4 ground ghost bug grass 
+8
+Astonish
+ghost 30
+Quick Attack
+normal 40
+Take Down
+normal 90
+Thief
+dark 60
+Wing Attack
+flying 60
+Air Slash
+flying 75
+Brave Bird
+flying 120
+U-Turn
+bug 70
+Staraptor
+34 1 1 1 1 1 1
+2 normal flying
+- 0 - 0
+3 rock electric ice 
+4 ground ghost bug grass 
+10
+Astonish
+ghost 30
+Quick Attack
+normal 40
+Take Down
+normal 90
+Thief
+dark 60
+Wing Attack
+flying 60
+Air Slash
+flying 75
+Brave Bird
+flying 120
+U-Turn
+bug 70
+Close Combat
+fighting 120
+Heat Wave
+fire 95
+Geodude
+12 1 1 1 1 0 0
+2 rock ground
+Graveler 25 Golem 40
+6 fighting ground steel water grass ice
+6 electric normal flying poison rock fire
+6
+Tackle
+normal 40
+Rock Throw
+rock 50
+Bulldoze
+ground 60
+Rock Slide
+rock 75
+Gyro Ball
+steel 90
+Brick Break
+fighting 75
+Graveler
+25 1 1 1 1 0 0
+2 rock ground
+Golem 40 - 0
+6 fighting ground steel water grass ice
+6 electric normal flying poison rock fire
+9
+Tackle
+normal 40
+Rock Throw
+rock 50
+Bulldoze
+ground 60
+Rock Slide
+rock 75
+Gyro Ball
+steel 90
+Brick Break
+fighting 75
+Double Edge
+normal 120
+Earthquake
+ground 100
+Stone Edge
+rock 100
+Golem
+40 1 1 1 1 0 0
+2 rock ground
+- 0 - 0
+6 fighting ground steel water grass ice
+6 electric normal flying poison rock fire
+11
+Tackle
+normal 40
+Rock Throw
+rock 50
+Bulldoze
+ground 60
+Rock Slide
+rock 75
+Gyro Ball
+steel 90
+Brick Break
+fighting 75
+Double Edge
+normal 120
+Earthquake
+ground 100
+Stone Edge
+rock 100
+Flamethrower
+fire 90
+Focus Blast
+fighting 120
+Cranidos
+1 1 1 1 1 0 0
+1 rock
+Rampardos 30 - 0
+5 fighting water ground steel grass
+4 normal flying poison fire
+13
+Headbutt
+normal 70
+Ancient Power
+rock 60
+Bite
+dark 60
+Take Down
+normal 90
+Zen Headbutt
+psychic 80
+Rock Slide
+rock 75
+Ice Beam
+ice 90
+Thunderbolt
+electric 90
+Dig
+ground 80
+Flamethrower
+fire 90
+Shock Wave
+electric 60
+Tackle
+normal 40
+Payback
+dark 50
+Rampardos
+30 1 1 1 1 0 0
+1 rock
+- 0 - 0
+5 fighting water ground steel grass
+4 normal flying poison fire
+18
+Headbutt
+normal 70
+Ancient Power
+rock 60
+Bite
+dark 60
+Tackle
+normal 40
+Payback
+dark 50
+Iron Head
+steel 80
+Surf
+water 90
+Dragon Pulse
+dragon 85
+Crunch
+dark 80
+Take Down
+normal 90
+Zen Headbutt
+psychic 80
+Rock Slide
+rock 75
+Ice Beam
+ice 90
+Thunderbolt
+electric 90
+Dig
+ground 80
+Flamethrower
+fire 90
+Earthquake
+ground 100
+Head Smash
+rock 150
+Cherubi
+1 1 1 1 1 0 0
+1 grass
+Cherrim 25 - 0
+5 flying fire ice poison bug
+4 ground water electric grass
+5
+Giga Drain
+grass 75
+Tackle
+normal 40
+Magical Leaf
+grass 60
+Draining Kiss
+fairy 40
+Energy Ball
+grass 80
+Cherrim
+25 1 1 1 1 0 0
+1 grass
+- 0 - 0
+5 flying fire ice poison bug
+4 ground water electric grass
+10
+Petal Dance
+grass 120
+Double Edge
+normal 120
+Play Rough
+fairy 90
+Pollen Puff
+bug 90
+Dazzling Gleam
+fairy 80
+Giga Drain
+grass 75
+Tackle
+normal 40
+Magical Leaf
+grass 60
+Draining Kiss
+fairy 40
+Energy Ball
+grass 80
+Turtwig
+1 1 1 1 1 0 0
+1 grass
+Grotle 18 Torterra 32
+5 flying fire ice poison bug
+4 ground water electric grass
+9
+Tackle
+normal 40
+Razor Leaf
+grass 55
+Bite
+dark 60
+Crunch
+dark 80
+Giga Drain
+grass 75
+Bulldoze
+ground 60
+Leaf Blade
+grass 90
+Rock Smash
+fighting 40
+Body Slam
+normal 85
+Grotle
+18 1 1 1 1 0 0
+1 grass
+Torterra 32 - 0
+5 flying fire ice poison bug
+4 ground water electric grass
+12
+Leaf Storm
+grass 130
+Iron Tail
+steel 100
+Earth Power
+ground 90
+Tackle
+normal 40
+Razor Leaf
+grass 55
+Bite
+dark 60
+Crunch
+dark 80
+Giga Drain
+grass 75
+Bulldoze
+ground 60
+Leaf Blade
+grass 90
+Rock Smash
+fighting 40
+Body Slam
+normal 85
+Torterra
+32 1 1 1 1 0 0
+2 grass ground
+- 0 - 0
+4 flying fire ice bug
+3 ground electric rock
+15
+Leaf Storm
+grass 130
+Iron Tail
+steel 100
+Earth Power
+ground 90
+Earthquake
+ground 100
+Superpower
+fighting 120
+Rock Slide
+rock 75
+Crunch
+dark 80
+Giga Drain
+grass 75
+Bulldoze
+ground 60
+Leaf Blade
+grass 90
+Rock Smash
+fighting 40
+Body Slam
+normal 85
+Tackle
+normal 40
+Razor Leaf
+grass 55
+Bite
+dark 60
+Budew
+1 1 1 1 1 0 0
+2 grass poison
+Roselia 18 Roserade 33
+4 flying fire ice psychic
+5 fighting water electric grass fairy
+5
+Poison Sting
+poison 30
+Absorb
+grass 20
+Venoshock
+poison 65
+Razor Leaf
+grass 55
+Cut
+normal 40
+Roselia
+18 1 1 1 1 0 0
+2 grass poison
+Roserade 33 - 0
+4 flying fire ice psychic
+5 fighting water electric grass fairy
+10
+Giga Drain
+grass 75
+Petal Blizzard
+grass 90
+Poison Jab
+poison 80
+Shadow Ball
+ghost 80
+Dazzling Gleam
+fairy 80
+Poison Sting
+poison 30
+Absorb
+grass 20
+Venoshock
+poison 65
+Razor Leaf
+grass 55
+Cut
+normal 40
+Roserade
+33 1 1 1 1 0 0
+2 grass poison
+- 0 - 0
+4 flying fire ice psychic
+5 fighting water electric grass fairy
+12
+Cut
+normal 40
+Absorb
+grass 20
+Giga Drain
+grass 75
+Petal Blizzard
+grass 90
+Poison Jab
+poison 80
+Shadow Ball
+ghost 80
+Dazzling Gleam
+fairy 80
+Poison Sting
+poison 30
+Leaf Storm
+grass 130
+Venoshock
+poison 65
+Razor Leaf
+grass 55
+Extrasensory
+psychic 80
+Meditite
+1 1 1 1 1 0 0
+2 fighting psychic
+Medicham 37 - 0
+3 flying ghost fairy
+2 fighting rock
+11
+Drain Punch
+fighting 75
+Poison Jab
+poison 80
+Fire Punch
+fire 65
+Ice Punch
+ice 65
+Thunder Punch
+electric 65
+Confusion
+psychic 50
+Feint
+normal 30
+Rock Tomb
+rock 60
+Zen Headbutt
+psychic 80
+Force Palm
+fighting 60
+Aerial Ace
+flying 60
+Medicham
+37 1 1 1 1 0 0
+2 fighting psychic
+- 0 - 0
+3 flying ghost fairy
+2 fighting rock
+13
+Confusion
+psychic 50
+Grass Knot
+grass 90
+Drain Punch
+fighting 75
+Poison Jab
+poison 80
+Fire Punch
+fire 65
+Ice Punch
+ice 65
+Thunder Punch
+electric 65
+High Jump Kick
+fighting 130
+Feint
+normal 30
+Rock Tomb
+rock 60
+Zen Headbutt
+psychic 80
+Force Palm
+fighting 60
+Aerial Ace
+flying 60
+Machop
+1 1 1 1 1 0 0
+1 fighting
+Machoke 28 Machamp 40
+3 flying psychic fairy
+3 bug dark rock
+9
+Thunder Punch
+electric 65
+Fire Punch
+fire 65
+Ice Punch
+ice 65
+Knock Off
+dark 65
+Bullet Punch
+steel 40
+Rock Smash
+fighting 40
+Dig
+ground 80
+Vital Throw
+fighting 70
+Dual Chop
+dragon 80
+Machoke
+28 1 1 1 1 0 0
+1 fighting
+Machamp 40 - 0
+3 flying psychic fairy
+3 bug dark rock
+13
+Fire Blast
+fire 110
+Close Combat
+fighting 120
+Poison Jab
+poison 80
+Thunder Punch
+electric 65
+Fire Punch
+fire 65
+Ice Punch
+ice 65
+Knock Off
+dark 65
+Bullet Punch
+steel 40
+Rock Smash
+fighting 40
+Dig
+ground 80
+Vital Throw
+fighting 70
+Dual Chop
+dragon 80
+Bullet Punch
+steel 40
+Machamp
+40 1 1 1 1 0 0
+1 fighting
+- 0 - 0
+3 flying psychic fairy
+3 bug dark rock
+13
+Fire Blast
+fire 110
+Close Combat
+fighting 120
+Poison Jab
+poison 80
+Thunder Punch
+electric 65
+Fire Punch
+fire 65
+Ice Punch
+ice 65
+Knock Off
+dark 65
+Bullet Punch
+steel 40
+Rock Smash
+fighting 40
+Dig
+ground 80
+Vital Throw
+fighting 70
+Dual Chop
+dragon 80
+Bullet Punch
+steel 40
+Riolu
+1 1 1 1 1 0 0
+1 fighting
+Lucario 35 - 0
+3 flying psychic fairy
+3 rock bug dark
+11
+Thunder Punch
+electric 65
+Force Palm
+fighting 60
+Shadow Claw
+fgost 70
+Poison Jab
+poison 80
+Crunch
+dark 80
+Rock Slide
+rock 75
+Metal Claw
+steel 50
+Vacuum Wave
+fighting 40
+Aura Sphere
+fighting 80
+Meteor Mash
+steel 90
+Dig
+ground 80
+Lucario
+35 1 1 1 1 0 0
+2 fighting steel
+- 0 - 0
+3 fighting fire ground
+9 poison normal rock bug steel grass ice dragon dark
+15
+Steel Beam
+steel 140
+Stone Edge
+rock 100
+Flash Cannon
+steel 80
+Thunder Punch
+electric 65
+Force Palm
+fighting 60
+Shadow Claw
+fgost 70
+Poison Jab
+poison 80
+Crunch
+dark 80
+Rock Slide
+rock 75
+Metal Claw
+steel 50
+Vacuum Wave
+fighting 40
+Close Combat
+fighting 120
+Aura Sphere
+fighting 80
+Meteor Mash
+steel 90
+Dig
+ground 80
+Duskull
+1 1 1 1 1 0 0
+1 ghost
+Dusclops 37 Dusknoir 50
+2 ghost dark
+3 normal poison bug
+8
+Charge
+electric 50
+Astonish
+ghost 30
+Hex
+ghost 65
+Thief
+dark 60
+Ice Beam
+ice 90
+Shadow Ball
+ghost 80
+Leech Life
+bug 80
+Icy Wind
+ice 55
+Dusclops
+37 1 1 1 1 0 0
+1 ghost
+Dusknoir 50 - 0
+2 ghost dark
+3 normal poison bug
+12
+Charge
+electric 50
+Brick Break
+fighting 75
+Thunder Punch
+electric 65
+Dark Pulse
+dark 80
+Psychic
+psychic 90
+Astonish
+ghost 30
+Hex
+ghost 65
+Thief
+dark 60
+Ice Beam
+ice 90
+Shadow Ball
+ghost 80
+Leech Life
+bug 80
+Icy Wind
+ice 55
+Dusknoir
+50 1 1 1 1 0 0
+1 ghost
+- 0 - 0
+2 ghost dark
+3 normal poison bug
+13
+Charge
+electric 50
+Blizzard
+ice 110
+Brick Break
+fighting 75
+Thunder Punch
+electric 65
+Dark Pulse
+dark 80
+Psychic
+psychic 90
+Astonish
+ghost 30
+Hex
+ghost 65
+Thief
+dark 60
+Ice Beam
+ice 90
+Shadow Ball
+ghost 80
+Leech Life
+bug 80
+Focus Blast
+fighting 120
+Gastly
+1 1 1 1 1 0 0
+2 ghost poison
+Haunter 25 Gengar 42
+3 ghost psychic dark
+7 normal fighting ground poison bug grass fairy
+7
+Sucker Punch
+dark 70
+Lick
+ghost 30
+Hex
+ghost 65
+Icy Wind
+ice 55
+Energy Ball
+grass 90
+Dazzling Gleam
+fairy 80
+Venoshock
+poison 65
+Haunter
+25 1 1 1 1 0 0
+2 ghost poison
+Gengar 42 - 0
+3 ghost psychic dark
+7 normal fighting ground poison bug grass fairy
+13
+Lick
+ghost 30
+Icy Wind
+ice 55
+Poison Jab
+poison 80
+Gunk Shot
+poison 120
+Thunderbolt
+electric 90
+Psychic
+psychic 90
+Sucker Punch
+dark 70
+Shadow Ball
+ghost 80
+Hex
+ghost 65
+Icy Punch
+ice 65
+Energy Ball
+grass 90
+Dazzling Gleam
+fairy 80
+Venoshock
+poison 65
+Gengar
+42 1 1 1 1 0 0
+2 ghost poison
+- 0 - 0
+3 ghost psychic dark
+7 normal fighting ground poison bug grass fairy
+14
+Lick
+ghost 30
+Hex
+ghost 65
+Icy Wind
+ice 55
+Poison Jab
+poison 80
+Gunk Shot
+poison 120
+Thunderbolt
+electric 90
+Psychic
+psychic 90
+Sucker Punch
+dark 70
+Shadow Ball
+ghost 80
+Phantom Force
+ghost 90
+Icy Punch
+ice 65
+Energy Ball
+grass 90
+Dazzling Gleam
+fairy 80
+Venoshock
+poison 65
+Magikarp
+1 1 1 1 1 0 0
+1 water
+Gyarados 20 - 0
+2 grass electric
+4 steel ice fire water
+2
+Tackle
+normal 40
+Flail
+normal 60
+Gyarados
+20 1 1 1 1 0 0
+2 water flying
+- 0 - 0
+2 rock electric
+6 ground fighting bug steel fire water
+14
+Tackle
+normal 40
+Flail
+normal 60
+Iron Head
+steel 80
+Dragon Pulse
+dragon 85
+Outrage
+dragon 120
+Ice Fang
+ice 65
+Ice Beam
+ice 90
+Hydro Pump
+water 110
+Bite
+dark 60
+Crunch 
+dark 80
+Brine
+water 65
+Waterfall
+water 80
+Crunch
+dark 80
+Hurricane
+flying 110
+Wooper
+1 1 1 1 1 0 0
+2 water ground
+Quagsire 20 - 0
+1 grass
+5 electric poison rock steel fire
+11
+Water Pulse
+water 60
+Hydro Pump
+water 110
+Double Kick
+fighting 60
+Sludge Bomb
+poison 90
+Earth Power
+ground 90
+Rock Tomb
+rock 60
+Water Gun
+water 40
+Mud Shot
+ground 55
+Aqua Tail
+water 90
+Stomping Tantrum
+ground 75
+Blizzard
+ice 110
+Quagsire
+20 1 1 1 1 0 0
+2 water ground
+- 0 - 0
+1 grass
+5 electric poison rock steel fire
+14
+Water Pulse
+water 60
+Water Gun
+water 40
+Mud Shot
+ground 55
+Focus Blast
+fighting 120
+Hydro Pump
+water 110
+Double Kick
+fighting 60
+Sludge Bomb
+poison 90
+Earth Power
+ground 90
+Rock Tomb
+rock 60
+Stone Edge
+rock 100
+Earthquake
+ground 100
+Aqua Tail
+water 90
+Stomping Tantrum
+ground 75
+Blizzard
+ice 110
+Bronzor
+1 1 1 1 1 0 0
+2 steel psychic
+Bronzong 33 - 0
+4 ground ghost fire dark
+10 poison normal flying rock steel grass psychic ice dragon fairy
+10
+Power Gem
+rock 80
+Grass Knot
+grass 90
+Stomping Tantrum
+ground 75
+Tackle
+normal 40
+Payback
+dark 50
+Charge Beam
+electric 50
+Hex
+ghost 65
+Gyro Ball
+steel 90
+Extrasensory
+psychic 80
+Ice Spinner
+ice 80
+Bronzong
+33 1 1 1 1 0 0
+2 steel psychic
+- 0 - 0
+4 ground ghost fire dark
+10 poison normal flying rock steel grass psychic ice dragon fairy
+12
+Tackle
+normal 40
+Hex
+ghost 65
+Power Gem
+rock 80
+Grass Knot
+grass 90
+Stomping Tantrum
+ground 75
+Steel Beam
+steel 140
+Payback
+dark 50
+Charge Beam
+electric 50
+Shadow Ball
+ghost 80
+Gyro Ball
+steel 90
+Extrasensory
+psychic 80
+Ice Spinner
+ice 80
+Onix
+1 1 1 1 1 0 0
+2 rock ground
+Steelix 29 - 0
+6 fighting ground steel water grass ice
+6 poison electric normal flying rock fire
+12
+Rock Slide
+rock 75
+Tackle
+normal 40
+Payback
+dark 50
+Iron Head
+steel 80
+Dragon Pulse
+dragon 85
+Rock Throw
+rock 50
+Dragon Breath
+dragon 60
+Sand Tomb
+ground 35
+Dig
+ground 80
+Iron Tail
+steel 100
+Stone Edge
+rock 100
+Earthquake
+ground 100
+Steelix
+29 1 1 1 1 0 0
+2 steel ground
+- 0 - 0
+4 fighting ground fire water
+10 poison electric normal flying rock bug steel psychic dragon fairy
+12
+Fire Fang
+fire 65
+Thunder Fang
+electric 65
+Crunch
+dark 80
+Iron Head
+steel 80
+Dragon Pulse
+dragon 85
+Psychic Fangs
+psychic 85
+Dragon Breath
+dragon 60
+Ice Fang
+ice 65
+Dig
+ground 80
+Iron Tail
+steel 100
+Stone Edge
+rock 100
+Earthquake
+ground 100
+Shieldon
+1 1 1 1 1 0 0
+2 rock steel
+Bastiodon 30 - 0
+3 fighting ground water
+9 poison normal flying rock bug psychic ice dragon fairy
+9
+Ice Beam
+ice 90
+Rock Smash
+rock 40
+Tackle
+normal 40
+Ancient Power
+rock 60
+Dig
+ground 80
+Shock Wave
+electric 60
+Iron Head
+steel 80
+Stone Edge
+rock 110
+Flamethrower
+fire 90
+Bastiodon
+30 1 1 1 1 0 0
+2 rock steel
+- 0 - 0
+3 fighting ground water
+9 poison normal flying rock bug psychic ice dragon fairy
+12
+Ancient Power
+rock 60
+Shock Wave
+electric 60
+Earthquake
+ground 100
+Ice Beam
+ice 90
+Rock Smash
+rock 40
+Tackle
+normal 40
+Ancient Power
+rock 60
+Dig
+ground 80
+Thunderbolt
+electric 90
+Iron Head
+steel 80
+Stone Edge
+rock 110
+Flamethrower
+fire 90
+Snover
+1 1 1 1 1 0 0
+2 grass ice
+Abomasnow 40 - 0
+7 fighting flying poison rock bug steel fire
+4 ground water grass electric
+9
+Blizzard
+ice 120
+Powder Snow
+ice 40
+Razor Leaf
+grass 55
+Ice Punch
+ice 75
+Giga Drain
+grass 75
+Double Edge
+normal 120
+Wood Hammer
+grass 120
+Ice Beam
+ice 90
+Water Pulse
+water 60
+Abomasnow
+40 1 1 1 1 0 0
+2 grass ice
+- 0 - 0
+7 fighting flying poison rock bug steel fire
+4 ground water grass electric
+13
+Powder Snow
+ice 40
+Razor Leaf
+grass 55
+Rock Slide
+rock 75
+Outrage
+dragon 120
+Blizzard
+ice 120
+Low Kick
+fighting 70
+Earth Power
+ground 90
+Ice Punch
+ice 75
+Giga Drain
+grass 75
+Double Edge
+normal 120
+Wood Hammer
+grass 120
+Ice Beam
+ice 90
+Water Pulse
+water 60
+Swinub
+1 1 1 1 1 0 0
+2 ice ground
+Piloswine 33 Mamoswine 45
+5 fighting steel fire water grass
+2 electric poison
+8
+Ancient Power
+rock 60
+Tackle
+normal 40
+Mud-Slap
+ground 20
+Take Down
+normal 90
+Icicle Crash
+ice 80
+Blizzard
+ice 110
+Earthquake
+ground 100
+Iron Head
+steel 80
+Piloswine
+33 1 1 1 1 0 0
+2 ice ground
+Mamoswine 45 - 0
+5 fighting steel fire water grass
+2 electric poison
+12
+Tackle
+normal 40
+Bite
+dark 60
+Stone Edge
+rock 100
+Rock Slide
+rock 75
+Ancient Power
+rock 60
+Double Edge
+normal 120
+Mud-Slap
+ground 20
+Take Down
+normal 90
+Icicle Crash
+ice 80
+Blizzard
+ice 110
+Earthquake
+ground 100
+Iron Head
+steel 80
+Mamoswine
+45 1 1 1 1 0 0
+2 ice ground
+- 0 - 0
+5 fighting steel fire water grass
+2 electric poison
+12
+Tackle
+normal 40
+Bite
+dark 60
+Stone Edge
+rock 100
+Rock Slide
+rock 75
+Ancient Power
+rock 60
+Double Edge
+normal 120
+Mud-Slap
+ground 20
+Take Down
+normal 90
+Icicle Crash
+ice 80
+Blizzard
+ice 110
+Earthquake
+ground 100
+Iron Head
+steel 80
+Pichu
+1 1 1 1 1 0 0
+1 electric
+Pikachu 18 Raichu 36
+1 ground
+3 flying steel electric
+5
+Fake Out
+normal 40
+Disarming Voice
+fairy 40
+Thunder Shock
+electric 40
+Trailblaze
+grass 50
+Volt Switch
+electric 70
+Pikachu
+18 1 1 1 1 0 0
+1 electric
+Raichu 36 - 0
+1 ground
+3 flying steel electric
+13
+Fake Out
+normal 40
+Disarming Voice
+fairy 40
+Thunder Shock
+electric 40
+Trailblaze
+grass 50
+Thief
+dark 60
+Play Rough
+fairy 90
+Spark
+electric 60
+Brick Break
+fighting 75
+Thunder
+electric 110
+Thunderbolt
+electric 90
+Iron Tail
+steel 90
+Grass Knot
+grass 90
+Volt Tackle
+electric 120
+Raichu
+36 1 1 1 1 0 0
+1 electric
+- 0 - 0
+1 ground
+3 flying steel electric
+13
+Fake Out
+normal 40
+Disarming Voice
+fairy 40
+Thunder Shock
+electric 40
+Trailblaze
+grass 50
+Thief
+dark 60
+Play Rough
+fairy 90
+Spark
+electric 60
+Brick Break
+fighting 75
+Thunder
+electric 110
+Thunderbolt
+electric 90
+Iron Tail
+steel 90
+Grass Knot
+grass 90
+Volt Tackle
+electric 120
+Elekid
+1 1 1 1 1 0 0
+1 electric
+Electabuzz 30 Electivire 45
+1 ground
+3 flying steel electric
+7
+Ice Punch
+ice 65
+Shock Wave
+electric 60
+Low Kick
+fighting 70
+Fire Punch
+fire 65
+Thunder Shock
+electric 40
+Quick Attack
+normal 40
+Psychic
+psychic 90
+Electabuzz
+30 1 1 1 1 0 0
+1 electric
+Electivire 45 - 0
+1 ground
+3 flying steel electric
+9
+Thunder Shock
+electric 40
+Quick Attack
+normal 40
+Ice Punch
+ice 65
+Shock Wave
+electric 60
+Low Kick
+fighting 70
+Fire Punch
+fire 65
+Thunderbolt
+electric 90
+Iron Tail
+steel 100
+Psychic
+psychic 90
+Electivire
+45 1 1 1 1 0 0
+1 electric
+- 0 - 0
+1 ground
+3 flying steel electric
+12
+Thunder Shock
+electric 40
+Quick Attack
+normal 40
+Darkest Lariat
+dark 85
+Thunder
+electric 110
+Focus Blast
+fighting 120
+Ice Punch
+ice 65
+Shock Wave
+electric 60
+Low Kick
+fighting 70
+Fire Punch
+fire 65
+Thunderbolt
+electric 90
+Iron Tail
+steel 100
+Psychic
+psychic 90
+Shinx
+1 1 1 1 1 0 0
+1 electric
+Luxio 15 Luxray 30
+1 ground
+3 flying steel electric
+5
+Ice Fang
+ice 65
+Fire Fang
+fire 65
+Tackle
+normal 40
+Bite
+dark 60
+Thunder Shock
+electric 40
+Luxio
+15 1 1 1 1 0 0
+1 electric
+Luxray 30 - 0
+1 ground
+3 flying steel electric
+12
+Tackle
+normal 40
+Bite
+dark 60
+Night Slash
+dark 70
+Double Kick
+fighting 60
+Play Rough
+fairy 90
+Psychic Fangs
+psychic 85
+Wild Charge
+electric 90
+Ice Fang
+ice 65
+Fire Fang
+fire 65
+Volt Switch
+electric 70
+Crunch
+dark 80
+Thunder Shock
+electric 40
+Luxray
+30 1 1 1 1 0 0
+1 electric
+- 0 - 0
+1 ground
+3 flying steel electric
+13
+Tackle
+normal 40
+Bite
+dark 60
+Thunder Shock
+electric 40
+Night Slash
+dark 70
+Double Kick
+fighting 60
+Play Rough
+fairy 90
+Psychic Fangs
+psychic 85
+Wild Charge
+electric 90
+Ice Fang
+ice 65
+Fire Fang
+fire 65
+Volt Switch
+electric 70
+Crunch
+dark 80
+Thunder
+electric 110
+Wurmple
+1 1 1 1 1 0 0
+1 bug
+Cascoon 7 Dustox 7
+3 flying rock fire
+3 fighting ground grass
+3
+Tackle
+normal 40
+Poison Sting
+poison 15
+Bug Bite
+bug 60
+Cascoon
+7 1 1 1 1 0 0
+1 bug
+Dustox 10 - 0
+3 flying rock fire
+3 fighting ground grass
+3
+Tackle
+normal 40
+Poison Sting
+poison 15
+Bug Bite
+bug 60
+Dustox
+10 1 1 1 1 0 0
+2 bug poison
+- 0 - 0
+4 flying rock fire psychic
+5 fighting poison bug grass fairy
+13
+Tackle
+normal 40
+Poison Sting
+poison 15
+Bug Bite
+bug 60
+Energy Ball
+grass 90
+Aerial Ace
+flying 60
+Gust
+flying 40
+Confusion
+psychic 50
+Venoshock
+poison 65
+Leech Life
+bug 80
+Bug Buzz
+bug 90
+Sludge Bomb
+poison 90
+Shadow Ball
+ghost 90
+Psychic
+psychic 90
+Silcoon
+7 1 1 1 1 0 0
+1 bug
+Beautifly 10 - 0
+3 flying rock fire
+3 fighting ground grass
+3
+Tackle
+normal 40
+Poison Sting
+poison 15
+Bug Bite
+bug 60
+Beautifly
+10 1 1 1 1 0 0
+2 bug flying
+- 0 - 0
+5 flying rock fire electric ice
+3 fighting bug grass
+13
+Tackle
+normal 40
+Poison Sting
+poison 15
+Bug Bite
+bug 60
+Energy Ball
+grass 90
+Aerial Ace
+flying 60
+Gust
+flying 40
+Confusion
+psychic 50
+Venoshock
+poison 65
+Leech Life
+bug 80
+Bug Buzz
+bug 90
+Sludge Bomb
+poison 90
+Shadow Ball
+ghost 90
+Psychic
+psychic 90
+Heracross
+15 1 1 1 1 0 0
+2 bug fighting
+- 0 - 0
+4 flying fire psychic fairy
+5 fighting ground bug grass dark
+13
+Rock Blast
+rock 50
+Pin Missile
+bug 50
+Shadow Claw
+ghost 70
+Tackle
+normal 40
+Aerial Ace
+flying 60
+Brick Break
+fighting 75
+Bulldoze
+ground 60
+Rock Tomb
+rock 60
+Smart Strike
+steel 70
+Close Combat
+fighting 120
+Megahorn
+bug 120
+Throat Chop
+dark 80
+Shadow Claw
+ghost 70
+Combee
+1 1 1 1 1 0 0
+2 bug flying
+Vespiquen 21 - 0
+5 flying rock fire electric ice
+4 ground fighting bug grass
+4
+Bug Buzz
+bug 80
+Bug Bite
+bug 60
+Struggle Bug
+bug 50
+Gust
+flying 40
+Combee
+1 1 1 1 1 0 0
+2 bug flying
+- 0 - 0
+5 flying rock fire electric ice
+4 ground fighting bug grass
+4
+Bug Buzz
+bug 80
+Bug Bite
+bug 60
+Struggle Bug
+bug 50
+Gust
+flying 40
+Vespiquen
+21 1 1 1 1 0 0
+2 bug flying
+- 0 - 0
+5 flying rock fire electric ice
+4 ground fighting bug grass
+10
+Struggle Bug
+bug 50
+Gust
+flying 40
+Air Slash
+flying 75
+Thief
+dark 60
+Aerial Ace
+flying 60
+Venoshock
+poison 65
+Attack Order
+bug 90
+Power Gem
+rock 80
+Acrobatics
+flying 110
+Sludge Bomb
+poison 90
+Skorupi
+1 1 1 1 1 0 0
+2 poison bug
+Drapion 40 - 0
+4 flying rock fire psychic
+5 fighting poison bug grass fairy
+10
+Night Slash
+dark 70
+Dig
+ground 80
+Poison Sting
+poison 15
+Fell Stinger
+bug 50
+Venoshock
+poison 65
+Bug Bite
+bug 60
+Poison Jab
+poison 80
+Crunch
+dark 80
+X-Scissor
+bug 80
+Rock Tomb
+rock 60
+Drapion
+40 1 1 1 1 0 0
+2 poison dark
+- 0 - 0
+1 ground
+5 psychic poison dark grass ghost
+12
+Poison Sting
+poison 15
+Fell Stinger
+bug 50
+Night Slash
+dark 70
+Dig
+ground 80
+Iron Tail
+steel 100
+Earthquake
+ground 100
+Brick Break
+fighting 75
+Bug Bite
+bug 60
+Poison Jab
+poison 80
+Crunch
+dark 80
+X-Scissor
+bug 80
+Rock Tomb
+rock 60
+Hippopotas
+1 1 1 1 1 0 0
+1 ground
+Hippowdon 34 - 0
+3 water grass ice
+3 electric poison rock
+7
+Thunder Fang
+electric 65
+Ice Fang
+ice 65
+Rock Tomb
+rock 60
+Sand Tomb
+ground 35
+Take Down
+normal 90
+Crunch
+dark 80
+Fire Fang
+fire 65
+Hippowdon
+34 1 1 1 1 0 0
+1 ground
+- 0 - 0
+3 water grass ice
+3 electric poison rock
+12
+Sand Tomb
+ground 35
+Thunder Fang
+electric 65
+Ice Fang
+ice 65
+Earthquake
+ground 100
+Double-Edge
+normal 120
+Crunch
+dark 80
+Fire Fang
+fire 65
+Rock Tomb
+rock 60
+Stomping Tantrum
+ground 75
+Iron Head
+steel 80
+Body Press
+fighting 80
+Rock Slide
+rock 75
+Bonsly
+1 1 1 1 1 0 0
+1 rock
+Sudowoodo 20 - 0
+5 fighting ground steel water grass
+4 normal flying poison fire
+7
+Thief
+dark 60
+Rock Throw
+rock 50
+Sucker Punch
+dark 70
+Rock Slide
+rock 75
+Trailblaze
+grass 50
+Bulldoze
+ground 60
+Earth Power
+ground 90
+Sudowoodo
+20 1 1 1 1 0 0
+1 rock
+- 0 - 0
+5 fighting ground steel water grass
+4 normal flying poison fire
+12
+Rock Throw
+rock 50
+Stone Edge
+rock 100
+Hammer Arm
+fighting 100
+Sucker Punch
+dark 80
+Grass Knot
+grass 90
+Rock Slide
+rock 75
+Trailblaze
+grass 50
+Bulldoze
+ground 60
+Earth Power
+ground 90
+Low Kick
+fighting 70
+Foul Play
+dark 90
+Thief
+dark 60
+Barboach
+1 1 1 1 1 0 0
+2 water ground
+Whiscash 30 - 0
+1 grass
+5 electric poison rock steel fire
+9
+Water Gun
+water 40
+Mud-Slap
+ground 20
+Water Pulse
+water 60
+Muddy Water
+water 90
+Bulldoze
+ground 60
+Icy Wind
+ice 55
+Rock Tomb
+rock 60
+Ice Beam
+ice 90
+Stomping Tantrum
+ground 75
+Whiscash
+30 1 1 1 1 0 0
+2 water ground
+- 0 - 0
+1 grass
+5 electric poison rock steel fire
+15
+Water Gun
+water 40
+Mud-Slap
+ground 20
+Hydro Pump
+water 110
+Earthquake
+ground 100
+Blizzard
+ice 110
+Zen Headbutt
+psychic 80
+Water Pulse
+water 60
+Muddy Water
+water 90
+Bulldoze
+ground 60
+Belch
+poison 120
+Rock Tomb
+rock 60
+Ice Beam
+ice 90
+Stomping Tantrum
+ground 75
+Stone Edge
+rock 100
+Outrage
+dragon 120
+Ponyta
+1 1 1 1 1 0 0
+1 fire
+Rapidash 40 - 0
+3 ground rock water
+6 bug grass steel fire ice fairy
+9
+Fire Blast
+fire 110
+Wild Charge
+electric 90
+High Horsepower
+ground 95
+Tackle
+normal 40
+Ember
+fire 40
+Flame Wheel
+fire 60
+Bounce
+flying 80
+Flamethrower
+fire 90
+Low Kick
+fighting 70
+Rapidash
+40 1 1 1 1 0 0
+1 fire
+- 0 - 0
+3 ground rock water
+6 bug grass steel fire ice fairy
+13
+Tackle
+normal 40
+Ember
+fire 40
+Flame Wheel
+fire 60
+Fire Blast
+fire 110
+Smart Strike
+steel 70
+Poison Jab
+poison 80
+Megahorn
+bug 120
+Wild Charge
+electric 90
+High Horsepower
+ground 95
+Bounce
+flying 80
+Flamethrower 
+fire 90
+Low Kick
+fighting 70
+Play Rough
+fairy 90
+Chimchar
+1 1 1 1 1 0 0
+2 fire fighting
+Monferno 14 Infernape 36
+3 rock ground water
+6 bug steel fire grass ice fairy
+8
+Scratch
+normal 40
+Ember
+fire 40
+Power-Up Punch
+fighting 40
+Flame Wheel
+fire 60
+Aerial Ace
+flying 60
+Shadow Claw
+ghost 70
+U-Turn
+bug 70
+Acrobatics
+flying 110
+Monferno
+14 1 1 1 1 0 0
+2 fire fighting
+Infernape 36 - 0
+4 flying ground water psychic
+6 bug steel fire grass ice dark
+15
+Scratch
+normal 40
+Ember
+fire 40
+Power-Up Punch
+fighting 40
+Flamethrower
+fire 90
+Dig
+ground 80
+Rock Tomb
+rock 60
+Flame Wheel
+fire 60
+Aerial Ace
+flying 60
+Shadow Claw
+ghost 70
+U-Turn
+bug 70
+Poison Jab
+poison 80
+Grass Knot
+grass 90
+Fire Blast
+fire 110
+Close Combat
+fighting 120
+Acrobatics
+flying 110
+Infernape
+36 1 1 1 1 0 0
+2 fire fighting
+- 0 - 0
+4 flying ground water psychic
+6 bug steel fire grass ice dark
+17
+Rock Tomb
+rock 60
+Scratch
+normal 40
+Ember
+fire 40
+Power-Up Punch
+fighting 40
+Flame Wheel
+fire 60
+Iron Tail
+steel 100
+Overheat
+fire 130
+Flare Blitz
+fire 120
+U-Turn
+bug 70
+Flamethrower
+fire 90
+Dig
+ground 80
+Aerial Ace
+flying 60
+Shadow Claw
+ghost 70
+Poison Jab
+poison 80
+Grass Knot
+grass 90
+Close Combat
+fighting 120
+Acrobatics
+flying 110
+Slugma
+1 1 1 1 1 0 0
+1 fire
+Magcargo 38 - 0
+3 ground rock water
+6 steel grass bug fire ice fairy
+8
+Smog
+poison 30
+Ember
+fire 40
+Rock Throw
+rock 50
+Rock Slide
+rock 75
+Lava Plume
+fire 80
+Flamethrower
+fire 90
+Earth Power
+ground 90
+Solar Beam
+grass 120
+Magcargo
+38 1 1 1 1 0 0
+2 fire rock
+- 0 - 0
+4 fighting ground rock water
+7 normal flying poison bug fire ice fairy
+11
+Smog
+poison 30
+Ember
+fire 40
+Rock Throw
+rock 50
+Clear Smog
+poison 50
+Stone Edge
+rock 100
+Gyro Ball
+steel 90
+Lava Plume
+fire 80
+Flamethrower
+fire 90
+Rock Slide
+rock 75
+Earth Power
+ground 90
+Solar Beam
+grass 120
+Larvesta
+1 1 1 1 1 0 0
+2 fire bug
+Volcarona 59 - 0
+3 flying rock water
+6 fighting bug steel grass ice fairy
+12
+Flame Wheel
+fire 60
+Struggle Bug
+bug 50
+Bug Bite
+bug 60
+Leech Life
+bug 80
+Double Edge
+normal 120
+Acrobatics
+flying 110
+Wild Charge
+electric 90
+Zen Headbutt
+psychic 80
+Bug Buzz
+bug 90
+Overheat
+fire 130
+Ember
+fire 40
+Psychic
+psychic 90
+Volcarona
+59 1 1 1 1 0 0
+2 fire bug
+- 0 - 0
+3 flying rock water
+6 fighting bug steel grass ice fairy
+14
+Flame Wheel
+fire 60
+Struggle Bug
+bug 50
+Bug Bite
+bug 60
+Ember
+fire 40
+Poison Jab
+poison 80
+Giga Drain
+grass 75
+Wild Charge
+electric 90
+Flamethrower
+fire 90
+Air Slash
+flying 75
+U-Turn
+bug 70
+Bug Buzz
+bug 90
+Overheat
+fire 130
+Hurricane
+flying 110
+Psychic
+psychic 90
+Sigilyph
+1 1 1 1 1 0 0
+2 psychic flying
+- 0 - 0
+5 rock ghost electric ice dark
+4 ground fighting grass psychic
+13
+Gust
+flying 40
+Confusion
+psychic 50
+Air Slash
+flying 75
+Psybeam
+psychic
+65
+Steel Wing
+steel 70
+Thief
+dark 60
+Ice Beam
+ice 90
+Heat Wave
+fire 95
+Dazzling Gleam
+fairy 80
+Sky Attack
+flying 140
+Psychic
+psychic 90
+Steel Wing
+steel 70
+Shadow Ball
+ghost 80
+Girafarig
+1 1 1 1 1 0 0
+2 normal psychic
+- 0 - 0
+2 bug dark
+2 ghost psychic
+14
+Astonish
+ghost 30
+Tackle
+normal 40
+Confusion
+psychic 50
+Assurance
+dark 60
+Twin Beam
+psychic 80
+Low Kick
+fighting 70
+Trailblaze
+grass 50
+Dazzling Gleam
+fairy 80
+Shadow Ball
+ghost 80
+Thunderbolt
+electric 90
+Psychic
+psychic 90
+Crunch
+dark 80
+Body Slam
+normal 85
+Bulldoze
+ground 60
+Abra
+1 1 1 1 1 0 0
+1 psychic
+Kadabra 16 Alakazam 38
+3 bug dark ghost
+2 fighting psychic
+6
+Confusion
+psychic 50
+Drain Punch
+fighting 75
+Thief
+dark 60
+Ice Punch
+ice 65
+Thunder Punch
+electric 65
+Fire Punch
+fire 65
+Kadabra
+16 1 1 1 1 0 0
+1 psychic
+Alakazam 38 - 0
+3 bug dark ghost
+2 fighting psychic
+13
+Psybeam
+psychic 65
+Confusion
+psychic 50
+Iron Tail
+steel 100
+Dazzling Gleam
+fairy 80
+Psychic
+psychic 90
+Drain Punch
+fighting 75
+Foul Play
+dark 95
+Ice Punch
+ice 65
+Thunder Punch
+electric 65
+Fire Punch
+fire 65
+Future Sight
+psychic 120
+Shadow Ball
+ghost 80
+Energy Ball
+grass 90
+Alakazam
+38 1 1 1 1 0 0
+1 psychic
+- 0 - 0
+3 bug dark ghost
+2 fighting psychic
+13
+Psybeam
+psychic 65
+Confusion
+psychic 50
+Iron Tail
+steel 100
+Dazzling Gleam
+fairy 80
+Psychic
+psychic 90
+Drain Punch
+fighting 75
+Foul Play
+dark 95
+Ice Punch
+ice 65
+Thunder Punch
+electric 65
+Fire Punch
+fire 65
+Future Sight
+psychic 120
+Shadow Ball
+ghost 80
+Energy Ball
+grass 90
+Shellos
+1 1 1 1 1 0 0
+1 water
+Gastrodon 30 - 0
+2 electric grass
+4 water ice steel fire
+7
+Water Pulse
+water 60
+Ancient Power
+rock 60
+Icy Wind
+ice 55
+Liquidation
+water 85
+Sludge
+poison 65
+Water Gun
+water 40
+Mud-Slap
+ground 20
+Gatrodon
+30 1 1 1 1 0 0
+2 ground water
+- 0 - 0
+1 grass
+5 electric poison rock steel fire
+15
+Water Pulse
+water 60
+Ancient Power
+rock 60
+Icy Wind
+ice 55
+Sludge
+poison 65
+Water Gun
+water 40
+Mud-Slap
+ground 20
+Stone Edge
+rock 100
+Earth Power
+ground 90
+Liquidation
+water 85
+Ice Beam
+ice 90
+Rock Slide
+rock 75
+Hydro Pump
+water 110
+Sludge Bomb
+poison 90
+Earthquake
+ground 100
+Blizzard
+ice 110
+Spiritomb
+1 1 1 1 1 0 0
+2 ghost dark
+- 0 - 0
+1 fairy
+4 normal fighting psychic poison
+8
+Shadow Sneak
+ghost 40
+Payback
+dark 50
+Hex
+ghost 65
+Sucker Punch
+dark 70
+Phantom Force
+ghost 90
+Foul Play
+dark 90
+Psychic
+psychic 90
+Rock Tomb
+rock 60
+Feebas
+1 1 1 1 1 0 0
+1 water
+Milotic 28 - 0
+2 grass electric
+4 steel fire water ice
+6
+Whirlpool
+water 35
+Tackle
+normal 40
+Icy Wind
+ice 55
+Brine
+water 65
+Surf
+water 90
+Dragon Breath
+dragon 60
+Milotic
+28 1 1 1 1 0 0
+1 water
+- 0 - 0
+2 grass electric
+4 steel fire water ice
+13
+Whirlpool
+water 35
+Tackle
+normal 40
+Icy Wind
+ice 55
+Brine
+water 65
+Surf
+water 90
+Ice Beam
+ice 90
+Brutal Swing
+dark 60
+Bulldoze
+ground 60
+Iron Head
+steel 80
+Iron Tail
+steel 100
+Hydro Pump
+water 110
+Blizzard
+ice 110
+Dragon Pulse
+dragon 85
+Gible
+1 1 1 1 1 0 0
+2 dragon ground
+Gabite 24 Garchomp 48
+3 ice dragon fairy
+4 electric poison rock fire
+9
+Sand Tomb
+ground 35
+Tackle
+normal 40
+Dragon Breath
+dragon 60
+Bite
+dark 60
+Dragon Claw
+dragon 80
+Dig
+ground 80
+Metal Claw
+steel 50
+Shadow Claw
+ghost 70
+Iron Head
+steel 80
+Gabite
+24 1 1 1 1 0 0
+2 dragon ground
+Garchomp 48 - 0
+3 ice dragon fairy
+4 electric poison rock fire
+15
+Sand Tomb
+ground 35
+Tackle
+normal 40
+Dragon Breath
+dragon 60
+Bite
+dark 60
+Dragon Claw
+dragon 80
+Thunder Fang
+electric 65
+Flamethrower
+fire 90
+Dig
+ground 80
+Metal Claw
+steel 50
+Shadow Claw
+ghost 70
+Iron Head
+steel 80
+Crunch
+dark 80
+Draco Meteor
+dragon 130
+Earthquake
+ground 100
+Fire Blast
+fire 110
+Garchomp
+48 1 1 1 1 0 0
+2 dragon ground
+- 0 - 0
+3 ice dragon fairy
+4 electric poison rock fire
+16
+Dragon Claw
+dragon 80
+Sand Tomb
+ground 35
+Tackle
+normal 40
+Dragon Breath
+dragon 60
+Bite
+dark 60
+Crunch
+dark 80
+Draco Meteor
+dragon 130
+Earthquake
+ground 100
+Fire Blast
+fire 110
+Thunder Fang
+electric 65
+Shadow Claw
+ghost 70
+Poison Jab
+poison 80
+Iron Head
+steel 80
+Power Gem
+rock 80
+Brick Break
+fighting 75
+Stone Edge
+rock 100
+Sandshrew
+1 1 1 1 1 0 0
+1 ground
+Sandslash 22 - 0
+3 ice water grass
+3 electric poison rock
+7
+Rollout
+rock 30
+Fury Cutter
+bug 40
+Bulldoze
+ground 60
+Slash
+normal 70
+Gyro Ball
+steel 90
+Shadow Claw
+ghost 70
+Brick Break
+fighting 75
+Sandslash
+22 1 1 1 1 0 0
+1 ground
+- 0 - 0
+3 ice water grass
+3 electric poison rock
+14
+Rollout
+rock 30
+Fury Cutter
+bug 40
+Bulldoze
+ground 60
+Focus Blast
+fighting 120
+Dig
+ground 80
+Earthquake
+ground 100
+Rock Slide
+rock 75
+Leech Life
+bug 80
+Poison Jab
+poison 80
+Gyro Ball
+steel 90
+Shadow Claw
+ghost 70
+Brick Break
+fighting 75
+Throat Chop
+dark 80
+Stone Edge
+rock 100
+Vulpix
+1 1 1 1 1 0 0
+1 ice
+Ninetails 28 - 0
+4 fighting rock steel fire
+1 ice
+7
+Powder Snow
+ice 40
+Aurora Beam
+ice 65
+Extrasensory
+psychic 80
+Draining Kiss
+fairy 50
+Hex
+ghost 65
+Payback
+dark 50
+Dig
+ground 80
+Ninetails
+28 1 1 1 1 0 0
+2 ice fairy
+- 0 - 0
+4 poison rock steel fire
+3 bug dark ice
+13
+Powder Snow
+ice 40
+Aurora Beam
+ice 65
+Ice Beam
+ice 90
+Blizzard
+ice 110
+Extrasensory
+psychic 80
+Dazzling Gleam
+fairy 80
+Hex
+ghost 65
+Shadow Ball
+ghost 80
+Payback
+dark 50
+Foul Play
+dark 95
+Dig
+ground 80
+Energy Ball
+grass 90
+Iron Tail
+steel 100
+Cubone
+1 1 1 1 1 0 0
+1 ground
+Marowak 28 - 0
+3 ice water grass
+3 electric poison rock
+9
+Mud-Slap
+ground 20
+Bone Rush
+ground 50
+Fire Punch
+fire 65
+Thunder Punch
+electric 65
+Icy Wind
+ice 55
+Rock Tomb
+rock 60
+Brick Break
+fighting 75
+Dig
+ground 80
+Rock Slide
+rock 75
+Marowak
+28 1 1 1 1 0 0
+1 ground
+- 0 - 0
+3 ice water grass
+3 electric poison rock
+16
+Mud-Slap
+ground 20
+Bone Rush
+ground 50
+Fire Punch
+fire 65
+Thunder Punch
+electric 65
+Icy Wind
+ice 55
+Rock Tomb
+rock 60
+Brick Break
+fighting 75
+Dig
+ground 80
+Rock Slide
+rock 75
+Bonemerang
+ground 100
+Flamethrower
+fire 90
+Fire Blast
+fire 110
+Ice Beam
+ice 90
+Focus Blast
+fighting 120
+Iron Tail
+steel 100
+Throat Chop
+dark 80
+Scyther
+1 1 1 1 1 0 0
+2 bug flying
+Scizor 38 - 0
+5 flying rock fire electric ice
+4 ground fighting bug grass
+10
+Quick Attack
+normal 40
+Fury Cutter
+bug 40
+Wing Attack
+flying 60
+Air Slash
+flying 75
+X-Scissor
+bug 80
+Thief
+dark 60
+Acrobatics
+flying 110
+Brick Break
+fighting 75
+Bug Buzz
+bug 90
+Trailblaze
+grass 50
+Scizor
+38 1 1 1 1 0 0
+2 bug steel
+- 0 - 0
+1 fire
+9 poison normal bug steel grass psychic ice dragon fairy
+13
+Metal Claw
+steel 50
+Iron Head
+steel 80
+Close Combat
+fighting 120
+Quick Attack
+normal 40
+Fury Cutter
+bug 40
+Wing Attack
+flying 60
+Air Slash
+flying 75
+X-Scissor
+bug 80
+Thief
+dark 60
+Acrobatics
+flying 110
+Brick Break
+fighting 75
+Bug Buzz
+bug 90
+Trailblaze
+grass 50
+Porygon
+10 1 1 1 1 0 0
+1 normal
+Porygon2 24 Porygon-Z 34
+1 fighting
+1 ghost
+12
+Tackle
+normal 40
+Thunder Shock
+electric 40
+Psybeam
+psychic 65
+Discharge
+electric 80
+Zap Cannon
+electric 120
+Icy Wind
+ice 55
+Ice Beam
+ice 90
+Psychic
+psychic 90
+Shadow Ball
+ghost 80
+Iron Tail
+steel 100
+Foul Play
+dark 95
+Blizzard
+ice 110
+Porygon2
+24 1 1 1 1 0 0
+1 normal
+Porygon-Z 34 - 0
+1 fighting
+1 ghost
+12
+Tackle
+normal 40
+Thunder Shock
+electric 40
+Psybeam
+psychic 65
+Discharge
+electric 80
+Zap Cannon
+electric 120
+Icy Wind
+ice 55
+Ice Beam
+ice 90
+Psychic
+psychic 90
+Shadow Ball
+ghost 80
+Iron Tail
+steel 100
+Foul Play
+dark 95
+Blizzard
+ice 110
+Porygon-Z
+34 1 1 1 1 0 0
+1 normal
+- 0 - 0
+1 fighting
+1 ghost
+12
+Tackle
+normal 40
+Thunder Shock
+electric 40
+Psybeam
+psychic 65
+Discharge
+electric 80
+Zap Cannon
+electric 120
+Icy Wind
+ice 55
+Ice Beam
+ice 90
+Psychic
+psychic 90
+Shadow Ball
+ghost 80
+Iron Tail
+steel 100
+Foul Play
+dark 95
+Blizzard
+ice 110
+Cyndaquil
+1 1 1 1 1 0 0
+1 fire
+Quilava 14 Typhlosion 36
+3 ground rock water
+6 bug steel fire grass ice fairy
+12
+Tackle
+normal 40
+Ember
+fire 40
+Flame Wheel
+fire 60
+Flamethrower
+fire 90
+Overheat
+fire 130
+Aerial Ace
+flying 60
+Dig
+ground 80
+Zen Headbutt
+psychic 80
+Play Rough
+fairy 90
+Wild Charge
+electric 90
+Swift
+normal 60
+Iron Head
+steel 80
+Quilava
+14 1 1 1 1 0 0
+1 fire
+Typhlosion 36 - 0
+3 ground rock water
+6 bug steel fire grass ice fairy
+12
+Tackle
+normal 40
+Ember
+fire 40
+Flame Wheel
+fire 60
+Flamethrower
+fire 90
+Overheat
+fire 130
+Aerial Ace
+flying 60
+Dig
+ground 80
+Zen Headbutt
+psychic 80
+Play Rough
+fairy 90
+Wild Charge
+electric 90
+Swift
+normal 60
+Iron Head
+steel 80
+Typhlosion
+36 1 1 1 1 0 0
+1 fire
+- 0 - 0
+3 ground rock water
+6 bug steel fire grass ice fairy
+13
+Eruption
+fire 150
+Tackle
+normal 40
+Ember
+fire 40
+Flame Wheel
+fire 60
+Flamethrower
+fire 90
+Overheat
+fire 130
+Aerial Ace
+flying 60
+Dig
+ground 80
+Zen Headbutt
+psychic 80
+Play Rough
+fairy 90
+Wild Charge
+electric 90
+Swift
+normal 60
+Iron Head
+steel 80
+Sentret
+1 1 1 1 1 0 0
+1 normal
+Furret 15 - 0
+1 fighting
+1 ghost
+7
+Quick Attack
+normal 40
+Slam
+normal 80
+Sucker Punch
+dark 70
+Water Pulse
+water 60
+Charge Beam
+electric 50
+Thief
+dark 60
+Brick Break
+fighting 75
+Furret
+15 1 1 1 1 0 0
+1 normal
+- 0 - 0
+1 fighting
+1 ghost
+13
+Ice Beam
+ice 90
+Thunderbolt
+electric 90
+Iron Tail
+steel 100
+Dig
+ground 80
+Flamethrower
+fire 90
+Focus Blast
+fighting 120
+Quick Attack
+normal 40
+Slam
+normal 80
+Sucker Punch
+dark 70
+Water Pulse
+water 60
+Charge Beam
+electric 50
+Thief
+dark 60
+Brick Break
+fighting 75
+Skarmory
+1 1 1 1 1 0 0
+2 flying steel
+- 0 - 0
+2 fire electric
+10 normal flying bug steel grass psychic dragon fairy poison ground
+13
+Peck
+flying 35
+Metal Claw
+steel 50
+Wing Attack
+flying 60
+Steel Wing
+steel 70
+Drill Peck
+flying 80
+Brave Bird
+flying 120
+Rock Tomb
+rock 60
+Dark Pulse
+dark 80
+X-Scizor
+bug 80
+Flash Cannon
+steel 80
+Thief
+dark 60
+Rock Slide
+rock 75
+Body Press
+fighting 80
+Mawile
+1 1 1 1 1 0 0
+2 steel fairy
+- 0 - 0
+2 ground fire
+11 poison dragon normal flying rock bug grass psychic ice dark fairy
+12
+Astonish
+ghost 30
+Fairy Wind
+fairy 40
+Sucker Punch
+dark 70
+Play Rough
+fairy 90
+Thunder Punch
+electric 65
+Ice Punch
+ice 65
+Brutal Swing
+dark 60
+Brick Break
+fighting 75
+Sludge Bomb
+poison 80
+Focus Blast
+fighting 120
+Fire Blast
+fire 110
+Psychic Fangs
+psychic 85
+Seviper
+1 1 1 1 1 0 0
+1 poison
+- 0 - 0
+2 ground psychic
+5 fighting poison bug grass fairy
+14
+Lick
+ghost 30
+Poison Tail
+poison 50
+Bite
+dark 60
+Venoshock
+poison 65
+Poison Jab
+poison 80
+Gunk Shot
+poison 120
+Crunch
+dark 80
+Ice Fang
+ice 65
+Dig
+ground 80
+Psychic Fangs
+psychic 85
+Iron Head
+steel 80
+Giga Drain
+grass 75
+Flamethrower
+fire 90
+Thunder Fang
+electric 65
+Absol
+1 1 1 1 1 0 0
+1 dark
+- 0 - 0
+3 bug fairy fighting
+3 ghost dark psychic
+14
+Quick Attack
+normal 40
+Knock Off
+dark 65
+Sucker Punch
+dark 70
+Icy Wind
+ice 55
+Rock Slide
+rock 65
+Bounce
+flying 80
+Psycho Cut
+psychic 70
+Flamethrower
+fire 90
+Thunderbolt
+electric 90
+Iron Tail
+steel 100
+Stone Edge
+rock 100
+Foul Play
+dark 95
+Hex
+ghost 65
+Megahorn
+bug 120
+Emolga
+1 1 1 1 1 0 0
+2 electric flying
+- 0 - 0
+2 rock ice
+6 ground fighting flying bug steel grass
+11
+Quick Attack
+normal 40
+Thunder Shock
+electric 40
+Acrobatics
+flying 110
+Spark
+electric 65
+U-Turn
+bug 70
+Air Slash
+flying 75
+Thunder
+electric 110
+Discharge
+electric 80
+Iron Tail
+steel 100
+Energy Ball
+grass 90
+Knock Off
+dark 65
+Tynamo
+1 1 1 1 1 0 0
+1 electric
+Eelektrik 39 Eelektross 46
+0
+4 ground flying steel electric
+3
+Tackle
+normal 40
+Spark
+electric 65
+Charge Beam
+electric 50
+Eelektrik
+39 1 1 1 1 0 0
+1 electric
+Eelektross 46 - 0
+0
+4 ground flying steel electric
+9
+Tackle
+normal 40
+Spark
+electric 65
+Charge Beam
+electric 50
+Crunch
+dark 80
+Thunderbolt
+electric 90
+Acid Spray
+poison 40
+Acrobatics
+flying 110
+Flash Cannon
+steel 80
+Giga Drain
+grass 75
+Eelektross
+46 1 1 1 1 0 0
+1 electric
+- 0 - 0
+0
+4 ground flying steel electric
+14
+Zap Cannon
+electric 120
+Close Combat
+fighting 120
+Flamethrower
+fire 90
+Stomping Tantrum
+ground 75
+Zen Headbutt
+psychic 80
+Tackle
+normal 40
+Spark
+electric 65
+Charge Beam
+electric 50
+Crunch
+dark 80
+Thunderbolt
+electric 90
+Acid Spray
+poison 40
+Acrobatics
+flying 110
+Flash Cannon
+steel 80
+Giga Drain
+grass 75
+Mienfoo
+1 1 1 1 1 0 0
+1 fighting
+Mienshao 50 - 0
+3 flying psychic fairy
+3 rock bug dark
+10
+Fake Out
+normal 40
+Force Palm
+fighting 60
+Drain Punch
+fighting 75
+Bounce
+flying 80
+Dig
+ground 80
+Rock Slide
+rock 75
+Payback
+dark 50
+Acrobatics
+flying 110
+Poison Jab
+poison 80
+Grass Knot
+grass 90
+Mienshao
+50 1 1 1 1 0 0
+1 fighting
+- 0 - 0
+3 flying psychic fairy
+3 rock bug dark
+13
+High Jump Kick
+fighting 130
+Stone Edge
+rock 100
+Blaze Kick
+fire 85
+Fake Out
+normal 40
+Force Palm
+fighting 60
+Drain Punch
+fighting 75
+Bounce
+flying 80
+Dig
+ground 80
+Rock Slide
+rock 75
+Payback
+dark 50
+Acrobatics
+flying 110
+Poison Jab
+poison 80
+Grass Knot
+grass 90
+Deino
+1 1 1 1 1 0 0
+2 dark dragon
+Zweilous 50 Hydreigon 64
+5 fighting bug ice dragon fairy
+7 psychic ghost fire water grass electric dark
+9
+Tackle
+normal 40
+Dragon Breath
+dragon 60
+Bite
+dark 60
+Crunch
+dark 80
+Fire Fang
+fire 65
+Thunder Fang
+electric 65
+Ice Fang
+ice 65
+Earth Power
+ground 90
+Dragon Pulse
+dragon 85
+Zweilous
+50 1 1 1 1 0 0
+2 dark dragon
+Hydreigon 64 - 0
+5 fighting bug ice dragon fairy
+7 psychic ghost fire water grass electric dark
+10
+Outrage
+draogn 120
+Tackle
+normal 40
+Dragon Breath
+dragon 60
+Bite
+dark 60
+Crunch
+dark 80
+Fire Fang
+fire 65
+Thunder Fang
+electric 65
+Ice Fang
+ice 65
+Earth Power
+ground 90
+Dragon Pulse
+dragon 85
+Hydreigon
+64 1 1 1 1 0 0
+2 dark dragon
+- 0 - 0
+5 fighting bug ice dragon fairy
+7 psychic ghost fire water grass electric dark
+14
+Draco Meteor
+dragon 130
+Acrobatics
+flying 110
+Flash Cannon
+steel 80
+Hydro Pump
+water 110
+Outrage
+draogn 120
+Tackle
+normal 40
+Dragon Breath
+dragon 60
+Bite
+dark 60
+Crunch
+dark 80
+Fire Fang
+fire 65
+Thunder Fang
+electric 65
+Ice Fang
+ice 65
+Earth Power
+ground 90
+Dragon Pulse
+dragon 85
+Espurr
+1 1 1 1 1 0 0
+1 psychic
+Meowstic 25 - 0
+3 bug ghost dark
+2 fighting psychic
+6
+Scratch
+normal 40
+Disarming Voice
+fairy 40
+Confusion
+psychic 50
+Pyschock
+psychic 80
+Payback
+dark 50
+Dark Pulse
+dark 80
+Meowstic
+25 1 1 1 1 0 0
+1 psychic
+- 0 - 0
+3 bug ghost dark
+2 fighting psychic
+12
+Future Sight
+psychic 120
+Iron Tail
+steel 100
+Shadow Ball
+ghost 80
+Energy Ball
+grass 90
+Play Rough
+fairy 90
+Magical Leaf
+grass 60
+Scratch
+normal 40
+Disarming Voice
+fairy 40
+Confusion
+psychic 50
+Pyschock
+psychic 80
+Payback
+dark 50
+Dark Pulse
+dark 80
+Clauncher
+1 1 1 1 1 0 0
+1 water
+Clawitzer 37 - 0
+2 grass electric
+4 steel fire water ice
+10
+Aqua Jet
+water 40
+Smack Down
+rock 50
+Aura Sphere
+fighting 80
+Muddy Water
+water 90
+Bounce
+flying 80
+Pounce
+bug 50
+Venoshock
+poison 65
+Icy Wind
+ice 55
+Dark Pulse
+dark 80
+Flash Cannon
+steel 80
+Clawitzer
+37 1 1 1 1 0 0
+1 water
+- 0 - 0
+2 grass electric
+4 steel fire water ice
+14
+Hydro Pump
+water 110
+Ice Beam
+ice 90
+Sludge Bomb
+poison 90
+Aqua Jet
+water 40
+Smack Down
+rock 50
+Aura Sphere
+fighting 120
+Muddy Water
+water 90
+Bounce
+flying 80
+Pounce
+bug 50
+Venoshock
+poison 65
+Icy Wind
+ice 55
+Dark Pulse
+dark 120
+Flash Cannon
+steel 80
+Dragon Pulse
+dragon 125
+Noibat
+1 1 1 1 1 0 0
+2 flying dragon
+Noibat 48 - 0
+4 rock ice dragon fairy
+6 ground fighting bug fairy water grass
+10
+Gust
+flying 40
+Air Slash
+flying 75
+Bite
+dark 60
+Water Pulse
+water 60
+Dragon Pulse
+dragon 85
+Dragon Tail
+dragon 60
+Shadow Claw
+ghost 70
+Heat Wave
+fire 95
+Wild Charge
+electric 90
+Leech Life
+bug 80
+Noivern
+48 1 1 1 1 0 0
+2 flying dragon
+- 0 - 0
+4 rock ice dragon fairy
+6 ground fighting bug fairy water grass
+13
+Hurricane
+flying 110
+Draco Meteor
+dragon 130
+Focus Blast
+fighting 120
+Gust
+flying 40
+Air Slash
+flying 75
+Bite
+dark 60
+Water Pulse
+water 60
+Dragon Pulse
+dragon 85
+Dragon Tail
+dragon 60
+Shadow Claw
+ghost 70
+Heat Wave
+fire 95
+Wild Charge
+electric 90
+Leech Life
+bug 80
+Fomantis
+1 1 1 1 1 0 0
+1 grass
+Lurantis 34 - 0
+5 bug poison flying fire ice
+4 grass ground water electric
+5
+Leafage
+grass 40
+Fury Cutter
+bug 40
+Razor Leaf
+grass 55
+X-Scissor
+bug 80
+Leaf Blade
+grass 90
+Lurantis
+34 1 1 1 1 0 0
+1 grass
+- 0 - 0
+5 bug poison flying fire ice
+4 grass ground water electric
+10
+Night Slash
+dark 70
+Solar Blade
+grass 125
+Poison Jab
+poison 80
+Brick Break
+fighting 75
+Giga Drain
+grass 75
+Leafage
+grass 40
+Fury Cutter
+bug 40
+Razor Leaf
+grass 55
+X-Scissor
+bug 80
+Leaf Blade
+grass 90
+Salandit
+1 1 1 1 1 0 0
+2 poison fire
+Salazzle 33 - 0
+4 ground rock water psychic
+8 grass fighting poison bug steel fire ice fairy
+8
+Scratch
+normal 40
+Ember
+fire 40
+Poison Fang
+poison 50
+Venoshock
+poison 65
+Dragon Pulse
+dragon 85
+Flamethrower
+fire 90
+Shadow Claw
+ghost 70
+Sludge Bomb
+poison 90
+Salandit
+1 1 1 1 1 0 0
+2 poison fire
+- 0 - 0
+4 ground rock water psychic
+8 grass fighting poison bug steel fire ice fairy
+8
+Scratch
+normal 40
+Ember
+fire 40
+Poison Fang
+poison 50
+Venoshock
+poison 65
+Dragon Pulse
+dragon 85
+Flamethrower
+fire 90
+Shadow Claw
+ghost 70
+Sludge Bomb
+poison 90
+Salazzle
+33 1 1 1 1 0 0
+2 poison fire
+- 0 - 0
+4 ground rock water psychic
+8 grass fighting poison bug steel fire ice fairy
+12
+Acrobatics
+flying 110
+Foul Play
+dark 95
+Flare Blitz
+fire 120
+Gunk Shot
+poison 120
+Scratch
+normal 40
+Ember
+fire 40
+Poison Fang
+poison 50
+Venoshock
+poison 65
+Dragon Pulse
+dragon 85
+Flamethrower
+fire 90
+Shadow Claw
+ghost 70
+Sludge Bomb
+poison 90
+Mimikyu
+1 1 1 1 1 0 0
+2 ghost fairy
+- 0 - 0
+2 ghost steel
+4 normal fighting dragon bug
+14
+Wood Hammer
+grass 120
+Shadow Sneak
+ghost 40
+Scratch
+normal 40
+Shadow Claw
+ghost 70
+Play Rough 
+fairy 90
+Trailblaze
+grass 50
+Draining Kiss
+fairy 50
+Drain Punch
+fighting 75
+Leech Life
+bug 80
+Phantom Force
+ghost 90
+Thunderbolt
+electric 90
+Thunder
+electric 110
+Psychic
+psychic 90
+Thief
+dark 60
+Silicobra
+1 1 1 1 1 0 0
+1 ground
+Sandaconda 36 - 0
+3 water grass ice
+3 electric poison rock
+7
+Sand Tomb
+ground 35
+Brutal Swing
+dark 60
+Bulldoze
+ground 60
+Poison Tail
+poison 50
+Rock Tomb
+rock 60
+Rock Slide
+rock 75
+Earth Power
+ground 90
+Sandaconda
+36 1 1 1 1 0 0
+1 ground
+- 0 - 0
+3 water grass ice
+3 electric poison rock
+15
+Earthquake
+ground 100
+Belch
+poison 120
+Stone Edge
+rock 100
+Fire Fang
+fire 65
+Thunder Fang
+electric 65
+Iron Head
+steel 80
+Zen Headbutt
+psychic 80
+Body Press
+fighting 80
+Sand Tomb
+ground 35
+Brutal Swing
+dark 60
+Bulldoze
+ground 60
+Poison Tail
+poison 50
+Rock Tomb
+rock 60
+Rock Slide
+rock 75
+Earth Power
+ground 90
+Flittle
+1 1 1 1 1 0 0
+1 psychic
+Espathra 35 - 0
+3 bug ghost dark
+2 fighting psychic
+8
+Peck
+flying 35
+Confusion
+psychic 50
+Disarming Voice
+fairy 40
+Psybeam
+psychic 65
+Pluck
+flying 65
+Seed Bomb
+grass 80
+Psychic
+psychic 90
+Thief
+dark 60
+Espathra
+35 1 1 1 1 0 0
+1 psychic
+- 0 - 0
+3 bug ghost dark
+2 fighting psychic
+13
+Brave Bird
+flying 120
+Flash Cannon
+steel 80
+Shadow Ball
+ghost 80
+Dazzling Gleam
+fairy 80
+Foul Play
+dark 95
+Peck
+flying 35
+Confusion
+psychic 50
+Disarming Voice
+fairy 40
+Psybeam
+psychic 65
+Pluck
+flying 65
+Seed Bomb
+grass 80
+Psychic
+psychic 90
+Thief
+dark 60
