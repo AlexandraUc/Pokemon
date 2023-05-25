@@ -8,7 +8,6 @@
 #include <list>
 #include <vector>
 #include <map>
-#include <unordered_map>
 #include <set>
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
