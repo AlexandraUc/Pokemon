@@ -2523,6 +2523,7 @@ istream& PlayableTrainer::read(istream& in){
             exit(1);
         }
     }
+    return in;
 }
 
 ostream& PlayableTrainer::show(ostream& os) const{
@@ -3495,6 +3496,7 @@ int PlayableTrainer::useMove(const list<string>& typeWeakness, const list<string
     }
     catch(int x){
         cout << this->name << " doesn't have any Pokemon\n";
+        return 0;
     }
     catch(...){
         cout << "Error\n";
@@ -3582,6 +3584,7 @@ int PlayableTrainer::loss(){
     }
     catch(int x){
         cout << this->name << " doesn't have any Pokemon\n";
+        return 0;
     }
     catch(...){
         cout << "Error\n";
@@ -3660,6 +3663,7 @@ int UnplayableTrainer::useMove(const list<string>& typeWeakness, const list<stri
     }
     catch(int x){
         cout << this->name << " doesn't have any Pokemon\n";
+        return 0;
     }
     catch(...){
         cout << "Error\n";
@@ -3710,6 +3714,7 @@ int UnplayableTrainer::loss(){
     }
     catch(int x){
         cout << this->name << " doesn't have any Pokemon\n";
+        return 0;
     }
     catch(...){
         cout << "Error\n";
@@ -3845,6 +3850,7 @@ int HybridTrainer::useMove(const list<string>& typeWeakness, const list<string>&
     }
     catch(int x){
         cout << this->name << " doesn't have any Pokemon\n";
+        return 0;
     }
     catch(...){
         cout << "Error\n";
@@ -3884,6 +3890,7 @@ Battle<T, U>& Battle<T, U>::operator =(const Battle<T, U>& obj){
 template <class T, class U>
 ostream& operator <<(ostream& os, const Battle<T, U>& obj){
     os << *(obj.first) << '\n' << *(obj.second) << '\n';
+    return os;
 }
 
 // Checks the parameters' types
