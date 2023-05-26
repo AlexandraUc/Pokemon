@@ -5237,8 +5237,6 @@ void Game::challengeElite(){
                 &(eliteFour[gymBadges - 8]));
     gymBattle.doBattle();
 
-    eliteFour[gymBadges - 8].resetHP();
-
     if(!this->player.fainted() && eliteFour[gymBadges - 8].fainted()){
         this->player.increaseGymBadges();
     }
